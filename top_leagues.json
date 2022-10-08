@@ -1,9 +1,9 @@
 {
-    "football": [("England", "Premier League"),
-                 ("Spain", "La Liga"),
-                 ("Germany", "Bundesliga"),
-                 ("Italy", "Serie A"),
-                 ("France", "Ligue 1"),
-                 ("Netherlands", "Eredivisie"),
-                 ("Sweden", "Allsvenskan"),
+    "football": [["England", "Premier League"],
+                 ["Spain", "La Liga"],
+                 ["Germany", "Bundesliga"],
+                 ["Italy", "Serie A"],
+                 ["France", "Ligue 1"],
+                 ["Netherlands", "Eredivisie"],
+                 ["Sweden", "Allsvenskan"]]
 }
