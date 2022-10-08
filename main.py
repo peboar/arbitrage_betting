@@ -1,14 +1,17 @@
+import sys
+sys.path.insert(0, "C:\\Users\\ogy572\\PycharmProjects\\arbitrage_betting\\bookmakers")
+
+
 import json
-# from bet365 import bet365
-# from leovegas import leovegas
-# from unibet import unibet
-from bookmakers import
+
+from bookmakers import *
 
 
 sport = "football"
-with open("C:\\Users\\ogy572\\PycharmProjects\\arbitrage_betting\\top_leagues.json") as json_file:
+with open("/bookmakers/top_leagues.json") as json_file:
     data = json.load(json_file)
     leagues = data[sport]
+
 
 # matches = Matches()
 # print("hajper")
@@ -18,8 +21,8 @@ with open("C:\\Users\\ogy572\\PycharmProjects\\arbitrage_betting\\top_leagues.js
 
 print("bethard", leagues)
 bethard("football", leagues)
-
-# print("snabbare")
+#
+# # print("snabbare")
 # snabbare("football")
 
 # print("betsafe")

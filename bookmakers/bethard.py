@@ -1,5 +1,3 @@
-import time
-
 import selenium.common.exceptions
 from selenium import webdriver
 from selenium.webdriver.support.ui import WebDriverWait
