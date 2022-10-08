@@ -1,11 +1,11 @@
-import json
-
+# import json
+lol
 # from bet365 import bet365
 # from leovegas import leovegas
 # from unibet import unibet
 
-with open("/home/per/Desktop/pythonProject/arbitrage_betting/top_leagues.json") as file:
-    data = json.load(file)
+# with open("/home/per/Desktop/pythonProject/arbitrage_betting/top_leagues.json") as file:
+#     data = json.load(file)
 # matches = Matches()
 # print("hajper")
 # hajper()
