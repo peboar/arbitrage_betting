@@ -2,20 +2,22 @@ import json
 # from bet365 import bet365
 # from leovegas import leovegas
 # from unibet import unibet
+from bookmakers import
 
 
 sport = "football"
 with open("C:\\Users\\ogy572\\PycharmProjects\\arbitrage_betting\\top_leagues.json") as json_file:
     data = json.load(json_file)
     leagues = data[sport]
+
 # matches = Matches()
 # print("hajper")
 # hajper()
 # print("888sport")
 # sport888()
 
-# print("bethard", leagues)
-# bethard("football", leagues)
+print("bethard", leagues)
+bethard("football", leagues)
 
 # print("snabbare")
 # snabbare("football")
