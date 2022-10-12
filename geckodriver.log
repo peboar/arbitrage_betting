@@ -1,0 +1,1096 @@
+1665340635666	geckodriver	INFO	Listening on 127.0.0.1:62362
+1665340638715	mozrunner::runner	INFO	Running command: "C:\\Users\\ogy572\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62363" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ogy572\\AppData\\Local\\Temp\\rust_mozprofile1w17PD"
+1665340639553	Marionette	INFO	Marionette enabled
+1665340639557	Marionette	INFO	Listening on port 62370
+Read port: 62370
+WebDriver BiDi listening on ws://127.0.0.1:62363
+1665340639690	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ogy572\\AppData\\Local\\Temp\\rust_mozprofile1w17PD\\search.json.mozlz4", (void 0)))
+Extension error: TypeError: globalChrome_1.chrome.runtime.lastError is null moz-extension://7d93a912-a4b2-416f-a854-9c4926cac97b/background.js 11593
+[[Exception stack
+this.AternityExtension.background</TabsStates.prototype.getFrame/<@moz-extension://7d93a912-a4b2-416f-a854-9c4926cac97b/background.js:11593:29
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:628:13
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:804:18
+]]
+Extension error: TypeError: globalChrome_1.chrome.runtime.lastError is null moz-extension://7d93a912-a4b2-416f-a854-9c4926cac97b/background.js 11593
+[[Exception stack
+this.AternityExtension.background</TabsStates.prototype.getFrame/<@moz-extension://7d93a912-a4b2-416f-a854-9c4926cac97b/background.js:11593:29
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:628:13
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:804:18
+]]
+Extension error: TypeError: globalChrome_1.chrome.runtime.lastError is null moz-extension://7d93a912-a4b2-416f-a854-9c4926cac97b/background.js 11593
+[[Exception stack
+this.AternityExtension.background</TabsStates.prototype.getFrame/<@moz-extension://7d93a912-a4b2-416f-a854-9c4926cac97b/background.js:11593:29
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:628:13
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:804:18
+]]
+DevTools listening on ws://127.0.0.1:62363/devtools/browser/8f7fe440-7676-4f9f-b13f-d01823b4379b
+JavaScript error: https://www.bethard.com/sv/null?langid=722&stoken=logout line 438 > injectedScript, line 1: TypeError: window.hj is not a function
+Extension error: TypeError: globalChrome_1.chrome.runtime.lastError is null moz-extension://7d93a912-a4b2-416f-a854-9c4926cac97b/background.js 11593
+[[Exception stack
+this.AternityExtension.background</TabsStates.prototype.getFrame/<@moz-extension://7d93a912-a4b2-416f-a854-9c4926cac97b/background.js:11593:29
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:628:13
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:804:18
+]]
+JavaScript error: https://cdn.sbtech.com/rj/sb-betslip-lib/5.6.15/sbBetslipLib.js, line 1: TypeError: e.data[0] is undefined
+1665340651135	Marionette	INFO	Stopped listening on port 62370
+1665341172620	geckodriver	INFO	Listening on 127.0.0.1:57880
+1665341547726	geckodriver	INFO	Listening on 127.0.0.1:58033
+1665341550760	mozrunner::runner	INFO	Running command: "C:\\Users\\ogy572\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58034" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ogy572\\AppData\\Local\\Temp\\rust_mozprofile9MTG05"
+1665341551602	Marionette	INFO	Marionette enabled
+1665341551606	Marionette	INFO	Listening on port 58041
+Read port: 58041
+WebDriver BiDi listening on ws://127.0.0.1:58034
+1665341551755	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1665341594911	geckodriver	INFO	Listening on 127.0.0.1:58055
+1665341597960	mozrunner::runner	INFO	Running command: "C:\\Users\\ogy572\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58056" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ogy572\\AppData\\Local\\Temp\\rust_mozprofileCsMeAY"
+1665341598790	Marionette	INFO	Marionette enabled
+1665341598795	Marionette	INFO	Listening on port 58063
+Read port: 58063
+WebDriver BiDi listening on ws://127.0.0.1:58056
+1665341598948	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ogy572\\AppData\\Local\\Temp\\rust_mozprofileCsMeAY\\search.json.mozlz4", (void 0)))
+Extension error: TypeError: globalChrome_1.chrome.runtime.lastError is null moz-extension://9fb8be32-f758-4a58-9e95-249f8d4a9246/background.js 11593
+[[Exception stack
+this.AternityExtension.background</TabsStates.prototype.getFrame/<@moz-extension://9fb8be32-f758-4a58-9e95-249f8d4a9246/background.js:11593:29
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:628:13
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:804:18
+]]
+Extension error: TypeError: globalChrome_1.chrome.runtime.lastError is null moz-extension://9fb8be32-f758-4a58-9e95-249f8d4a9246/background.js 11593
+[[Exception stack
+this.AternityExtension.background</TabsStates.prototype.getFrame/<@moz-extension://9fb8be32-f758-4a58-9e95-249f8d4a9246/background.js:11593:29
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:628:13
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:804:18
+]]
+Extension error: TypeError: globalChrome_1.chrome.runtime.lastError is null moz-extension://9fb8be32-f758-4a58-9e95-249f8d4a9246/background.js 11593
+[[Exception stack
+this.AternityExtension.background</TabsStates.prototype.getFrame/<@moz-extension://9fb8be32-f758-4a58-9e95-249f8d4a9246/background.js:11593:29
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:628:13
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:804:18
+]]
+DevTools listening on ws://127.0.0.1:58056/devtools/browser/5eb9670f-3c75-40ed-8838-85f84f28db70
+Extension error: TypeError: globalChrome_1.chrome.runtime.lastError is null moz-extension://9fb8be32-f758-4a58-9e95-249f8d4a9246/background.js 11593
+[[Exception stack
+this.AternityExtension.background</TabsStates.prototype.getFrame/<@moz-extension://9fb8be32-f758-4a58-9e95-249f8d4a9246/background.js:11593:29
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:628:13
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:804:18
+]]
+1665341602502	Marionette	INFO	Stopped listening on port 58063
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1665342629127	geckodriver	INFO	Listening on 127.0.0.1:58247
+1665342632194	mozrunner::runner	INFO	Running command: "C:\\Users\\ogy572\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58248" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ogy572\\AppData\\Local\\Temp\\rust_mozprofileoC0zIj"
+1665342633057	Marionette	INFO	Marionette enabled
+1665342633062	Marionette	INFO	Listening on port 58255
+Read port: 58255
+WebDriver BiDi listening on ws://127.0.0.1:58248
+1665342633205	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1665342934556	geckodriver	INFO	Listening on 127.0.0.1:58280
+1665342937620	mozrunner::runner	INFO	Running command: "C:\\Users\\ogy572\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58281" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ogy572\\AppData\\Local\\Temp\\rust_mozprofileYTIuGc"
+1665342938472	Marionette	INFO	Marionette enabled
+1665342938477	Marionette	INFO	Listening on port 58288
+Read port: 58288
+WebDriver BiDi listening on ws://127.0.0.1:58281
+1665342938615	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ogy572\\AppData\\Local\\Temp\\rust_mozprofileYTIuGc\\search.json.mozlz4", (void 0)))
+Extension error: TypeError: globalChrome_1.chrome.runtime.lastError is null moz-extension://9893d7cb-ed2e-40a0-aa77-20d910c8c8a4/background.js 11593
+[[Exception stack
+this.AternityExtension.background</TabsStates.prototype.getFrame/<@moz-extension://9893d7cb-ed2e-40a0-aa77-20d910c8c8a4/background.js:11593:29
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:628:13
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:804:18
+]]
+Extension error: TypeError: globalChrome_1.chrome.runtime.lastError is null moz-extension://9893d7cb-ed2e-40a0-aa77-20d910c8c8a4/background.js 11593
+[[Exception stack
+this.AternityExtension.background</TabsStates.prototype.getFrame/<@moz-extension://9893d7cb-ed2e-40a0-aa77-20d910c8c8a4/background.js:11593:29
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:628:13
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:804:18
+]]
+Extension error: TypeError: globalChrome_1.chrome.runtime.lastError is null moz-extension://9893d7cb-ed2e-40a0-aa77-20d910c8c8a4/background.js 11593
+[[Exception stack
+this.AternityExtension.background</TabsStates.prototype.getFrame/<@moz-extension://9893d7cb-ed2e-40a0-aa77-20d910c8c8a4/background.js:11593:29
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:628:13
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:804:18
+]]
+DevTools listening on ws://127.0.0.1:58281/devtools/browser/8f3acb3d-c482-4198-9ecb-247b53e71955
+1665342941144	Marionette	INFO	Stopped listening on port 58288
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1665343019744	geckodriver	INFO	Listening on 127.0.0.1:58373
+1665343022782	mozrunner::runner	INFO	Running command: "C:\\Users\\ogy572\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58374" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ogy572\\AppData\\Local\\Temp\\rust_mozprofileuTIEbH"
+1665343023640	Marionette	INFO	Marionette enabled
+1665343023644	Marionette	INFO	Listening on port 58393
+Read port: 58393
+WebDriver BiDi listening on ws://127.0.0.1:58374
+1665343023784	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ogy572\\AppData\\Local\\Temp\\rust_mozprofileuTIEbH\\search.json.mozlz4", (void 0)))
+Extension error: TypeError: globalChrome_1.chrome.runtime.lastError is null moz-extension://81f5f182-5138-4b49-9217-287cf5fa5665/background.js 11593
+[[Exception stack
+this.AternityExtension.background</TabsStates.prototype.getFrame/<@moz-extension://81f5f182-5138-4b49-9217-287cf5fa5665/background.js:11593:29
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:628:13
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:804:18
+]]
+Extension error: TypeError: globalChrome_1.chrome.runtime.lastError is null moz-extension://81f5f182-5138-4b49-9217-287cf5fa5665/background.js 11593
+[[Exception stack
+this.AternityExtension.background</TabsStates.prototype.getFrame/<@moz-extension://81f5f182-5138-4b49-9217-287cf5fa5665/background.js:11593:29
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:628:13
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:804:18
+]]
+Extension error: TypeError: globalChrome_1.chrome.runtime.lastError is null moz-extension://81f5f182-5138-4b49-9217-287cf5fa5665/background.js 11593
+[[Exception stack
+this.AternityExtension.background</TabsStates.prototype.getFrame/<@moz-extension://81f5f182-5138-4b49-9217-287cf5fa5665/background.js:11593:29
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:628:13
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:804:18
+]]
+DevTools listening on ws://127.0.0.1:58374/devtools/browser/03728129-ea24-4e9c-a3aa-f4277665ecf7
+Extension error: TypeError: globalChrome_1.chrome.runtime.lastError is null moz-extension://81f5f182-5138-4b49-9217-287cf5fa5665/background.js 11593
+[[Exception stack
+this.AternityExtension.background</TabsStates.prototype.getFrame/<@moz-extension://81f5f182-5138-4b49-9217-287cf5fa5665/background.js:11593:29
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:628:13
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:804:18
+]]
+1665343043160	Marionette	INFO	Stopped listening on port 58393
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1665343045852	geckodriver	INFO	Listening on 127.0.0.1:58796
+1665343048896	mozrunner::runner	INFO	Running command: "C:\\Users\\ogy572\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58797" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ogy572\\AppData\\Local\\Temp\\rust_mozprofileq9CggL"
+1665343049777	Marionette	INFO	Marionette enabled
+1665343049781	Marionette	INFO	Listening on port 58805
+Read port: 58805
+WebDriver BiDi listening on ws://127.0.0.1:58797
+1665343049941	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ogy572\\AppData\\Local\\Temp\\rust_mozprofileq9CggL\\search.json.mozlz4", (void 0)))
+Extension error: TypeError: globalChrome_1.chrome.runtime.lastError is null moz-extension://5bd4cd3e-5cb6-45ec-a223-d76169247955/background.js 11593
+[[Exception stack
+this.AternityExtension.background</TabsStates.prototype.getFrame/<@moz-extension://5bd4cd3e-5cb6-45ec-a223-d76169247955/background.js:11593:29
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:628:13
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:804:18
+]]
+Extension error: TypeError: globalChrome_1.chrome.runtime.lastError is null moz-extension://5bd4cd3e-5cb6-45ec-a223-d76169247955/background.js 11593
+[[Exception stack
+this.AternityExtension.background</TabsStates.prototype.getFrame/<@moz-extension://5bd4cd3e-5cb6-45ec-a223-d76169247955/background.js:11593:29
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:628:13
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:804:18
+]]
+Extension error: TypeError: globalChrome_1.chrome.runtime.lastError is null moz-extension://5bd4cd3e-5cb6-45ec-a223-d76169247955/background.js 11593
+[[Exception stack
+this.AternityExtension.background</TabsStates.prototype.getFrame/<@moz-extension://5bd4cd3e-5cb6-45ec-a223-d76169247955/background.js:11593:29
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:628:13
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:804:18
+]]
+DevTools listening on ws://127.0.0.1:58797/devtools/browser/62a7aabd-abb1-4b5b-9195-b928f46dc525
+1665343057439	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+Extension error: TypeError: globalChrome_1.chrome.runtime.lastError is null moz-extension://5bd4cd3e-5cb6-45ec-a223-d76169247955/background.js 11593
+[[Exception stack
+this.AternityExtension.background</TabsStates.prototype.getFrame/<@moz-extension://5bd4cd3e-5cb6-45ec-a223-d76169247955/background.js:11593:29
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:628:13
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:804:18
+]]
+JavaScript error: https://www.bethard.com/static/js/runtime-main.7a3551fc.js, line 1: ChunkLoadError: Loading chunk 697 failed.
+(error: https://www.bethard.com/static/js/697.6602fdd8.chunk.js)
+JavaScript error: https://www.bethard.com/static/js/runtime-main.7a3551fc.js, line 1: ChunkLoadError: Loading chunk 179 failed.
+(error: https://www.bethard.com/static/js/179.9631111d.chunk.js)
+Extension error: TypeError: globalChrome_1.chrome.runtime.lastError is null moz-extension://5bd4cd3e-5cb6-45ec-a223-d76169247955/background.js 11593
+[[Exception stack
+this.AternityExtension.background</TabsStates.prototype.getFrame/<@moz-extension://5bd4cd3e-5cb6-45ec-a223-d76169247955/background.js:11593:29
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:628:13
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:804:18
+]]
+1665343129460	Marionette	INFO	Stopped listening on port 58801665343130784	mozrunner::runner	INFO	Running command: "C:\\Users\\ogy572\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59135" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ogy572\\AppData\\Local\\Temp\\rust_mozprofileh3YUHG"
+1665343131621	Marionette	INFO	Marionette enabled
+1665343131626	Marionette	INFO	Listening on port 59144
+Read port: 59144
+WebDriver BiDi listening on ws://127.0.0.1:59135
+1665343131763	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ogy572\\AppData\\Local\\Temp\\rust_mozprofileh3YUHG\\search.json.mozlz4", (void 0)))
+Extension error: TypeError: globalChrome_1.chrome.runtime.lastError is null moz-extension://0ae902d3-340a-4dc7-8752-7f71201b0930/background.js 11593
+[[Exception stack
+this.AternityExtension.background</TabsStates.prototype.getFrame/<@moz-extension://0ae902d3-340a-4dc7-8752-7f71201b0930/background.js:11593:29
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:628:13
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:804:18
+]]
+Extension error: TypeError: globalChrome_1.chrome.runtime.lastError is null moz-extension://0ae902d3-340a-4dc7-8752-7f71201b0930/background.js 11593
+[[Exception stack
+this.AternityExtension.background</TabsStates.prototype.getFrame/<@moz-extension://0ae902d3-340a-4dc7-8752-7f71201b0930/background.js:11593:29
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:628:13
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:804:18
+]]
+Extension error: TypeError: globalChrome_1.chrome.runtime.lastError is null moz-extension://0ae902d3-340a-4dc7-8752-7f71201b0930/background.js 11593
+[[Exception stack
+this.AternityExtension.background</TabsStates.prototype.getFrame/<@moz-extension://0ae902d3-340a-4dc7-8752-7f71201b0930/background.js:11593:29
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:628:13
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:804:18
+]]
+DevTools listening on ws://127.0.0.1:59135/devtools/browser/09eb4dd4-b44a-4b6a-9b92-1ad09b57df4e
+Extension error: TypeError: globalChrome_1.chrome.runtime.lastError is null moz-extension://0ae902d3-340a-4dc7-8752-7f71201b0930/background.js 11593
+[[Exception stack
+this.AternityExtension.background</TabsStates.prototype.getFrame/<@moz-extension://0ae902d3-340a-4dc7-8752-7f71201b0930/background.js:11593:29
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:628:13
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:804:18
+]]
+Extension error: TypeError: globalChrome_1.chrome.runtime.lastError is null moz-extension://0ae902d3-340a-4dc7-8752-7f71201b0930/background.js 11593
+[[Exception stack
+this.AternityExtension.background</TabsStates.prototype.getFrame/<@moz-extension://0ae902d3-340a-4dc7-8752-7f71201b0930/background.js:11593:29
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:628:13
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:804:18
+]]
+JavaScript error: https://cdn.sbtech.com/rj/sb-betslip-lib/5.6.15/sbBetslipLib.js, line 1: TypeError: e.data[0] is undefined
+1665343280656	Marionette	INFO	Stopped listening on port 59144
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+-marionette" "--remote-debugging-port" "59506" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ogy572\\AppData\\Local\\Temp\\rust_mozprofileBiHEUB"
+1665343259135	Marionette	INFO	Marionette enabled
+1665343259140	Marionette	INFO	Listening on port 59517
+Read port: 59517
+WebDriver BiDi listening on ws://127.0.0.1:59506
+1665343259275	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ogy572\\AppData\\Local\\Temp\\rust_mozprofileBiHEUB\\search.json.mozlz4", (void 0)))
+Extension error: TypeError: globalChrome_1.chrome.runtime.lastError is null moz-extension://ac3daa2d-ca44-4e89-bd92-42402d012e55/background.js 11593
+[[Exception stack
+this.AternityExtension.background</TabsStates.prototype.getFrame/<@moz-extension://ac3daa2d-ca44-4e89-bd92-42402d012e55/background.js:11593:29
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:628:13
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:804:18
+]]
+Extension error: TypeError: globalChrome_1.chrome.runtime.lastError is null moz-extension://ac3daa2d-ca44-4e89-bd92-42402d012e55/background.js 11593
+[[Exception stack
+this.AternityExtension.background</TabsStates.prototype.getFrame/<@moz-extension://ac3daa2d-ca44-4e89-bd92-42402d012e55/background.js:11593:29
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:628:13
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:804:18
+]]
+Extension error: TypeError: globalChrome_1.chrome.runtime.lastError is null moz-extension://ac3daa2d-ca44-4e89-bd92-42402d012e55/background.js 11593
+[[Exception stack
+this.AternityExtension.background</TabsStates.prototype.getFrame/<@moz-extension://ac3daa2d-ca44-4e89-bd92-42402d012e55/background.js:11593:29
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:628:13
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:804:18
+]]
+DevTools listening on ws://127.0.0.1:59506/devtools/browser/a19d6ad4-c59f-4d82-bfc7-8463dd6cf3d8
+Extension error: TypeError: globalChrome_1.chrome.runtime.lastError is null moz-extension://ac3daa2d-ca44-4e89-bd92-42402d012e55/background.js 11593
+[[Exception stack
+this.AternityExtension.background</TabsStates.prototype.getFrame/<@moz-extension://ac3daa2d-ca44-4e89-bd92-42402d012e55/background.js:11593:29
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:628:13
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:804:18
+]]
+JavaScript error: https://assetscdn-wchat.eu.freshchat.com/static/assets/fd-messaging.1bb096f6ac26cd8ea5aa.js, line 1: ChunkLoadError: Loading chunk 3185 failed.
+(error: https://assetscdn-wchat.eu.freshchat.com/static/assets/chunk.b119e44805094a7aec07.js)
+JavaScript error: https://www.bethard.com/sv/null?langid=722&stoken=logout line 438 > injectedScript, line 1: TypeError: window.hj is not a function
+Extension error: TypeError: globalChrome_1.chrome.runtime.lastError is null moz-extension://ac3daa2d-ca44-4e89-bd92-42402d012e55/background.js 11593
+[[Exception stack
+this.AternityExtension.background</TabsStates.prototype.getFrame/<@moz-extension://ac3daa2d-ca44-4e89-bd92-42402d012e55/background.js:11593:29
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:628:13
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:804:18
+]]
+JavaScript error: https://cdn.sbtech.com/rj/sb-betslip-lib/5.6.15/sbBetslipLib.js, line 1: TypeError: e.data[0] is undefined
+1665343280654	Marionette	INFO	Stopped listening on port 59517
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+-marionette" "--remote-debugging-port" "59858" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ogy572\\AppData\\Local\\Temp\\rust_mozprofilej88Sh5"
+1665343280738	Marionette	INFO	Marionette enabled
+1665343280744	Marionette	INFO	Listening on port 59869
+Read port: 59869
+WebDriver BiDi listening on ws://127.0.0.1:59858
+1665343280900	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ogy572\\AppData\\Local\\Temp\\rust_mozprofilej88Sh5\\search.json.mozlz4", (void 0)))
+Extension error: TypeError: globalChrome_1.chrome.runtime.lastError is null moz-extension://e8a99a49-9929-4a2b-a4f3-e535ef3bc637/background.js 11593
+[[Exception stack
+this.AternityExtension.background</TabsStates.prototype.getFrame/<@moz-extension://e8a99a49-9929-4a2b-a4f3-e535ef3bc637/background.js:11593:29
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:628:13
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:804:18
+]]
+Extension error: TypeError: globalChrome_1.chrome.runtime.lastError is null moz-extension://e8a99a49-9929-4a2b-a4f3-e535ef3bc637/background.js 11593
+[[Exception stack
+this.AternityExtension.background</TabsStates.prototype.getFrame/<@moz-extension://e8a99a49-9929-4a2b-a4f3-e535ef3bc637/background.js:11593:29
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:628:13
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:804:18
+]]
+Extension error: TypeError: globalChrome_1.chrome.runtime.lastError is null moz-extension://e8a99a49-9929-4a2b-a4f3-e535ef3bc637/background.js 11593
+[[Exception stack
+this.AternityExtension.background</TabsStates.prototype.getFrame/<@moz-extension://e8a99a49-9929-4a2b-a4f3-e535ef3bc637/background.js:11593:29
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:628:13
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:804:18
+]]
+DevTools listening on ws://127.0.0.1:59858/devtools/browser/696e0f6b-d5e2-4aaf-84f7-0278b90fb257
+Extension error: TypeError: globalChrome_1.chrome.runtime.lastError is null moz-extension://e8a99a49-9929-4a2b-a4f3-e535ef3bc637/background.js 11593
+[[Exception stack
+this.AternityExtension.background</TabsStates.prototype.getFrame/<@moz-extension://e8a99a49-9929-4a2b-a4f3-e535ef3bc637/background.js:11593:29
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:628:13
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:804:18
+]]
+JavaScript error: https://cdn.sbtech.com/rj/sb-betslip-lib/5.6.15/sbBetslipLib.js, line 1: TypeError: e.data[0] is undefined
+JavaScript error: https://cdn.sbtech.com/rj/sb-resp-platform/3.6.31/sbRespPlatform-main.js, line 9: TypeError: this.block is undefined
+1665343336842	Marionette	INFO	Stopped listening on port 59869
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1665343339285	geckodriver	INFO	Listening on 127.0.0.1:60351
+1665343342334	mozrunner::runner	INFO	Running command: "C:\\Users\\ogy572\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60352" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ogy572\\AppData\\Local\\Temp\\rust_mozprofileUN2uYk"
+1665343343157	Marionette	INFO	Marionette enabled
+1665343343162	Marionette	INFO	Listening on port 60359
+Read port: 60359
+WebDriver BiDi listening on ws://127.0.0.1:60352
+1665343343293	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ogy572\\AppData\\Local\\Temp\\rust_mozprofileUN2uYk\\search.json.mozlz4", (void 0)))
+Extension error: TypeError: globalChrome_1.chrome.runtime.lastError is null moz-extension://1922dc6d-cb15-4e53-a522-1bc268dfcfd3/background.js 11593
+[[Exception stack
+this.AternityExtension.background</TabsStates.prototype.getFrame/<@moz-extension://1922dc6d-cb15-4e53-a522-1bc268dfcfd3/background.js:11593:29
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:628:13
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:804:18
+]]
+Extension error: TypeError: globalChrome_1.chrome.runtime.lastError is null moz-extension://1922dc6d-cb15-4e53-a522-1bc268dfcfd3/background.js 11593
+[[Exception stack
+this.AternityExtension.background</TabsStates.prototype.getFrame/<@moz-extension://1922dc6d-cb15-4e53-a522-1bc268dfcfd3/background.js:11593:29
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:628:13
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:804:18
+]]
+Extension error: TypeError: globalChrome_1.chrome.runtime.lastError is null moz-extension://1922dc6d-cb15-4e53-a522-1bc268dfcfd3/background.js 11593
+[[Exception stack
+this.AternityExtension.background</TabsStates.prototype.getFrame/<@moz-extension://1922dc6d-cb15-4e53-a522-1bc268dfcfd3/background.js:11593:29
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:628:13
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:804:18
+]]
+DevTools listening on ws://127.0.0.1:60352/devtools/browser/6c928265-b096-48fd-9f7e-a3a01aba5774
+JavaScript error: https://www.bethard.com/sv/null?langid=722&stoken=logout line 438 > injectedScript, line 1: TypeError: window.hj is not a function
+Extension error: TypeError: globalChrome_1.chrome.runtime.lastError is null moz-extension://1922dc6d-cb15-4e53-a522-1bc268dfcfd3/background.js 11593
+[[Exception stack
+this.AternityExtension.background</TabsStates.prototype.getFrame/<@moz-extension://1922dc6d-cb15-4e53-a522-1bc268dfcfd3/background.js:11593:29
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:628:13
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:804:18
+]]
+1665343363362	Marionette	INFO	Stopped listening on port 60359
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1665343380342	geckodriver	INFO	Listening on 127.0.0.1:60618
+1665343383383	mozrunner::runner	INFO	Running command: "C:\\Users\\ogy572\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60619" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ogy572\\AppData\\Local\\Temp\\rust_mozprofileXjTFq9"
+1665343384215	Marionette	INFO	Marionette enabled
+1665343384220	Marionette	INFO	Listening on port 60630
+Read port: 60630
+WebDriver BiDi listening on ws://127.0.0.1:60619
+1665343384362	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ogy572\\AppData\\Local\\Temp\\rust_mozprofileXjTFq9\\search.json.mozlz4", (void 0)))
+Extension error: TypeError: globalChrome_1.chrome.runtime.lastError is null moz-extension://e4658fba-b8dd-46df-b154-fb0768889482/background.js 11593
+[[Exception stack
+this.AternityExtension.background</TabsStates.prototype.getFrame/<@moz-extension://e4658fba-b8dd-46df-b154-fb0768889482/background.js:11593:29
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:628:13
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:804:18
+]]
+Extension error: TypeError: globalChrome_1.chrome.runtime.lastError is null moz-extension://e4658fba-b8dd-46df-b154-fb0768889482/background.js 11593
+[[Exception stack
+this.AternityExtension.background</TabsStates.prototype.getFrame/<@moz-extension://e4658fba-b8dd-46df-b154-fb0768889482/background.js:11593:29
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:628:13
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:804:18
+]]
+Extension error: TypeError: globalChrome_1.chrome.runtime.lastError is null moz-extension://e4658fba-b8dd-46df-b154-fb0768889482/background.js 11593
+[[Exception stack
+this.AternityExtension.background</TabsStates.prototype.getFrame/<@moz-extension://e4658fba-b8dd-46df-b154-fb0768889482/background.js:11593:29
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:628:13
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:804:18
+]]
+DevTools listening on ws://127.0.0.1:60619/devtools/browser/39906258-8ae2-47ac-a2fe-7bafbf5816de
+JavaScript error: https://www.bethard.com/sv/null?langid=722&stoken=logout line 438 > injectedScript, line 1: TypeError: window.hj is not a function
+Extension error: TypeError: globalChrome_1.chrome.runtime.lastError is null moz-extension://e4658fba-b8dd-46df-b154-fb0768889482/background.js 11593
+[[Exception stack
+this.AternityExtension.background</TabsStates.prototype.getFrame/<@moz-extension://e4658fba-b8dd-46df-b154-fb0768889482/background.js:11593:29
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:628:13
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:804:18
+]]
+1665343401611	Marionette	INFO	Stopped listening on port 60630
+1665438157936	geckodriver	INFO	Listening on 127.0.0.1:50654
+1665438160988	mozrunner::runner	INFO	Running command: "C:\\Users\\ogy572\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50655" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ogy572\\AppData\\Local\\Temp\\rust_mozprofileAaUHpP"
+1665438161974	Marionette	INFO	Marionette enabled
+1665438161979	Marionette	INFO	Listening on port 50662
+Read port: 50662
+WebDriver BiDi listening on ws://127.0.0.1:50655
+1665438162133	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ogy572\\AppData\\Local\\Temp\\rust_mozprofileAaUHpP\\search.json.mozlz4", (void 0)))
+Extension error: TypeError: globalChrome_1.chrome.runtime.lastError is null moz-extension://82dee8a9-fe4d-4130-b576-628609a0f3f9/background.js 11593
+[[Exception stack
+this.AternityExtension.background</TabsStates.prototype.getFrame/<@moz-extension://82dee8a9-fe4d-4130-b576-628609a0f3f9/background.js:11593:29
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:628:13
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:804:18
+]]
+Extension error: TypeError: globalChrome_1.chrome.runtime.lastError is null moz-extension://82dee8a9-fe4d-4130-b576-628609a0f3f9/background.js 11593
+[[Exception stack
+this.AternityExtension.background</TabsStates.prototype.getFrame/<@moz-extension://82dee8a9-fe4d-4130-b576-628609a0f3f9/background.js:11593:29
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:628:13
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:804:18
+]]
+Extension error: TypeError: globalChrome_1.chrome.runtime.lastError is null moz-extension://82dee8a9-fe4d-4130-b576-628609a0f3f9/background.js 11593
+[[Exception stack
+this.AternityExtension.background</TabsStates.prototype.getFrame/<@moz-extension://82dee8a9-fe4d-4130-b576-628609a0f3f9/background.js:11593:29
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:628:13
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:804:18
+]]
+DevTools listening on ws://127.0.0.1:50655/devtools/browser/dd7427e9-87e2-4d91-960d-a4998106637f
+Extension error: TypeError: globalChrome_1.chrome.runtime.lastError is null moz-extension://82dee8a9-fe4d-4130-b576-628609a0f3f9/background.js 11593
+[[Exception stack
+this.AternityExtension.background</TabsStates.prototype.getFrame/<@moz-extension://82dee8a9-fe4d-4130-b576-628609a0f3f9/background.js:11593:29
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:628:13
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:804:18
+]]
+JavaScript error: https://cdn.sbtech.com/rj/sb-betslip-lib/5.6.15/sbBetslipLib.js, line 1: TypeError: e.data[0] is undefined
+1665438168361	Marionette	INFO	Stopped listening on port 50662
+1665438187944	geckodriver	INFO	Listening on 127.0.0.1:50831
+1665438190953	mozrunner::runner	INFO	Running command: "C:\\Users\\ogy572\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50832" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ogy572\\AppData\\Local\\Temp\\rust_mozprofileAUO7s8"
+1665438191797	Marionette	INFO	Marionette enabled
+1665438191802	Marionette	INFO	Listening on port 50840
+Read port: 50840
+WebDriver BiDi listening on ws://127.0.0.1:50832
+1665438191938	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ogy572\\AppData\\Local\\Temp\\rust_mozprofileAUO7s8\\search.json.mozlz4", (void 0)))
+Extension error: TypeError: globalChrome_1.chrome.runtime.lastError is null moz-extension://55e58512-2fd3-4267-aa3b-d37b35fa6c00/background.js 11593
+[[Exception stack
+this.AternityExtension.background</TabsStates.prototype.getFrame/<@moz-extension://55e58512-2fd3-4267-aa3b-d37b35fa6c00/background.js:11593:29
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:628:13
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:804:18
+]]
+Extension error: TypeError: globalChrome_1.chrome.runtime.lastError is null moz-extension://55e58512-2fd3-4267-aa3b-d37b35fa6c00/background.js 11593
+[[Exception stack
+this.AternityExtension.background</TabsStates.prototype.getFrame/<@moz-extension://55e58512-2fd3-4267-aa3b-d37b35fa6c00/background.js:11593:29
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:628:13
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:804:18
+]]
+Extension error: TypeError: globalChrome_1.chrome.runtime.lastError is null moz-extension://55e58512-2fd3-4267-aa3b-d37b35fa6c00/background.js 11593
+[[Exception stack
+this.AternityExtension.background</TabsStates.prototype.getFrame/<@moz-extension://55e58512-2fd3-4267-aa3b-d37b35fa6c00/background.js:11593:29
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:628:13
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:804:18
+]]
+DevTools listening on ws://127.0.0.1:50832/devtools/browser/08b315c6-b518-440e-a17b-a0968e5f9582
+Extension error: TypeError: globalChrome_1.chrome.runtime.lastError is null moz-extension://55e58512-2fd3-4267-aa3b-d37b35fa6c00/background.js 11593
+[[Exception stack
+this.AternityExtension.background</TabsStates.prototype.getFrame/<@moz-extension://55e58512-2fd3-4267-aa3b-d37b35fa6c00/background.js:11593:29
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:628:13
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:804:18
+]]
+JavaScript error: https://cdn.sbtech.com/rj/sb-betslip-lib/5.6.15/sbBetslipLib.js, line 1: TypeError: e.data[0] is undefined
+1665438198831	Marionette	INFO	Stopped listening on port 50840
+1665438223539	geckodriver	INFO	Listening on 127.0.0.1:51027
+1665438226575	mozrunner::runner	INFO	Running command: "C:\\Users\\ogy572\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51028" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ogy572\\AppData\\Local\\Temp\\rust_mozprofileiP1aAM"
+1665438227384	Marionette	INFO	Marionette enabled
+1665438227389	Marionette	INFO	Listening on port 51035
+Read port: 51035
+WebDriver BiDi listening on ws://127.0.0.1:51028
+1665438227521	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ogy572\\AppData\\Local\\Temp\\rust_mozprofileiP1aAM\\search.json.mozlz4", (void 0)))
+Extension error: TypeError: globalChrome_1.chrome.runtime.lastError is null moz-extension://5392da8b-5809-4153-b4e9-80f3c775154e/background.js 11593
+[[Exception stack
+this.AternityExtension.background</TabsStates.prototype.getFrame/<@moz-extension://5392da8b-5809-4153-b4e9-80f3c775154e/background.js:11593:29
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:628:13
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:804:18
+]]
+Extension error: TypeError: globalChrome_1.chrome.runtime.lastError is null moz-extension://5392da8b-5809-4153-b4e9-80f3c775154e/background.js 11593
+[[Exception stack
+this.AternityExtension.background</TabsStates.prototype.getFrame/<@moz-extension://5392da8b-5809-4153-b4e9-80f3c775154e/background.js:11593:29
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:628:13
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:804:18
+]]
+Extension error: TypeError: globalChrome_1.chrome.runtime.lastError is null moz-extension://5392da8b-5809-4153-b4e9-80f3c775154e/background.js 11593
+[[Exception stack
+this.AternityExtension.background</TabsStates.prototype.getFrame/<@moz-extension://5392da8b-5809-4153-b4e9-80f3c775154e/background.js:11593:29
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:628:13
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:804:18
+]]
+DevTools listening on ws://127.0.0.1:51028/devtools/browser/f6fa63c8-9ad3-4717-b682-dc972854bcbb
+JavaScript error: https://www.bethard.com/sv/null?langid=722&stoken=logout line 438 > injectedScript, line 1: TypeError: window.hj is not a function
+Extension error: TypeError: globalChrome_1.chrome.runtime.lastError is null moz-extension://5392da8b-5809-4153-b4e9-80f3c775154e/background.js 11593
+[[Exception stack
+this.AternityExtension.background</TabsStates.prototype.getFrame/<@moz-extension://5392da8b-5809-4153-b4e9-80f3c775154e/background.js:11593:29
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:628:13
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:804:18
+]]
+JavaScript error: https://cdn.sbtech.com/rj/sb-betslip-lib/5.6.15/sbBetslipLib.js, line 1: TypeError: e.data[0] is undefined
+1665438243666	geckodriver	INFO	Listening on 127.0.0.1:51260
+1665438246710	mozrunner::runner	INFO	Running command: "C:\\Users\\ogy572\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51261" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ogy572\\AppData\\Local\\Temp\\rust_mozprofileJf9bhl"
+1665438247539	Marionette	INFO	Marionette enabled
+1665438247544	Marionette	INFO	Listening on port 51268
+Read port: 51268
+WebDriver BiDi listening on ws://127.0.0.1:51261
+1665438247682	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ogy572\\AppData\\Local\\Temp\\rust_mozprofileJf9bhl\\search.json.mozlz4", (void 0)))
+Extension error: TypeError: globalChrome_1.chrome.runtime.lastError is null moz-extension://07f1f164-01b9-42d9-9e1e-78ce629df67d/background.js 11593
+[[Exception stack
+this.AternityExtension.background</TabsStates.prototype.getFrame/<@moz-extension://07f1f164-01b9-42d9-9e1e-78ce629df67d/background.js:11593:29
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:628:13
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:804:18
+]]
+Extension error: TypeError: globalChrome_1.chrome.runtime.lastError is null moz-extension://07f1f164-01b9-42d9-9e1e-78ce629df67d/background.js 11593
+[[Exception stack
+this.AternityExtension.background</TabsStates.prototype.getFrame/<@moz-extension://07f1f164-01b9-42d9-9e1e-78ce629df67d/background.js:11593:29
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:628:13
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:804:18
+]]
+Extension error: TypeError: globalChrome_1.chrome.runtime.lastError is null moz-extension://07f1f164-01b9-42d9-9e1e-78ce629df67d/background.js 11593
+[[Exception stack
+this.AternityExtension.background</TabsStates.prototype.getFrame/<@moz-extension://07f1f164-01b9-42d9-9e1e-78ce629df67d/background.js:11593:29
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:628:13
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:804:18
+]]
+DevTools listening on ws://127.0.0.1:51261/devtools/browser/b31d20b1-6bbe-43ea-a4b8-4a45f642d806
+Extension error: TypeError: globalChrome_1.chrome.runtime.lastError is null moz-extension://07f1f164-01b9-42d9-9e1e-78ce629df67d/background.js 11593
+[[Exception stack
+this.AternityExtension.background</TabsStates.prototype.getFrame/<@moz-extension://07f1f164-01b9-42d9-9e1e-78ce629df67d/background.js:11593:29
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:628:13
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:804:18
+]]
+1665438254336	Marionette	INFO	Stopped listening on port 51268
+1665438302576	geckodriver	INFO	Listening on 127.0.0.1:51498
+1665438305597	mozrunner::runner	INFO	Running command: "C:\\Users\\ogy572\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51499" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ogy572\\AppData\\Local\\Temp\\rust_mozprofileAZ9j61"
+1665438306426	Marionette	INFO	Marionette enabled
+1665438306431	Marionette	INFO	Listening on port 51506
+Read port: 51506
+WebDriver BiDi listening on ws://127.0.0.1:51499
+1665438306563	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ogy572\\AppData\\Local\\Temp\\rust_mozprofileAZ9j61\\search.json.mozlz4", (void 0)))
+Extension error: TypeError: globalChrome_1.chrome.runtime.lastError is null moz-extension://bb629c2b-d474-4349-b17a-303d79b5465c/background.js 11593
+[[Exception stack
+this.AternityExtension.background</TabsStates.prototype.getFrame/<@moz-extension://bb629c2b-d474-4349-b17a-303d79b5465c/background.js:11593:29
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:628:13
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:804:18
+]]
+Extension error: TypeError: globalChrome_1.chrome.runtime.lastError is null moz-extension://bb629c2b-d474-4349-b17a-303d79b5465c/background.js 11593
+[[Exception stack
+this.AternityExtension.background</TabsStates.prototype.getFrame/<@moz-extension://bb629c2b-d474-4349-b17a-303d79b5465c/background.js:11593:29
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:628:13
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:804:18
+]]
+Extension error: TypeError: globalChrome_1.chrome.runtime.lastError is null moz-extension://bb629c2b-d474-4349-b17a-303d79b5465c/background.js 11593
+[[Exception stack
+this.AternityExtension.background</TabsStates.prototype.getFrame/<@moz-extension://bb629c2b-d474-4349-b17a-303d79b5465c/background.js:11593:29
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:628:13
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:804:18
+]]
+DevTools listening on ws://127.0.0.1:51499/devtools/browser/e3b270da-4be2-4b44-85e8-f6c06cd19c45
+Extension error: TypeError: globalChrome_1.chrome.runtime.lastError is null moz-extension://bb629c2b-d474-4349-b17a-303d79b5465c/background.js 11593
+[[Exception stack
+this.AternityExtension.background</TabsStates.prototype.getFrame/<@moz-extension://bb629c2b-d474-4349-b17a-303d79b5465c/background.js:11593:29
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:628:13
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:804:18
+]]
+1665438313728	Marionette	INFO	Stopped listening on port 51506
+1665438432948	geckodriver	INFO	Listening on 127.0.0.1:51719
+1665438435984	mozrunner::runner	INFO	Running command: "C:\\Users\\ogy572\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51720" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ogy572\\AppData\\Local\\Temp\\rust_mozprofileCVqTOL"
+1665438436819	Marionette	INFO	Marionette enabled
+1665438436824	Marionette	INFO	Listening on port 51727
+Read port: 51727
+WebDriver BiDi listening on ws://127.0.0.1:51720
+1665438436962	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ogy572\\AppData\\Local\\Temp\\rust_mozprofileCVqTOL\\search.json.mozlz4", (void 0)))
+Extension error: TypeError: globalChrome_1.chrome.runtime.lastError is null moz-extension://e9821105-07b4-4796-91c1-c7e58d97f514/background.js 11593
+[[Exception stack
+this.AternityExtension.background</TabsStates.prototype.getFrame/<@moz-extension://e9821105-07b4-4796-91c1-c7e58d97f514/background.js:11593:29
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:628:13
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:804:18
+]]
+Extension error: TypeError: globalChrome_1.chrome.runtime.lastError is null moz-extension://e9821105-07b4-4796-91c1-c7e58d97f514/background.js 11593
+[[Exception stack
+this.AternityExtension.background</TabsStates.prototype.getFrame/<@moz-extension://e9821105-07b4-4796-91c1-c7e58d97f514/background.js:11593:29
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:628:13
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:804:18
+]]
+Extension error: TypeError: globalChrome_1.chrome.runtime.lastError is null moz-extension://e9821105-07b4-4796-91c1-c7e58d97f514/background.js 11593
+[[Exception stack
+this.AternityExtension.background</TabsStates.prototype.getFrame/<@moz-extension://e9821105-07b4-4796-91c1-c7e58d97f514/background.js:11593:29
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:628:13
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:804:18
+]]
+DevTools listening on ws://127.0.0.1:51720/devtools/browser/d2b960e9-0172-44ca-bee3-100eac03de5a
+Extension error: TypeError: globalChrome_1.chrome.runtime.lastError is null moz-extension://e9821105-07b4-4796-91c1-c7e58d97f514/background.js 11593
+[[Exception stack
+this.AternityExtension.background</TabsStates.prototype.getFrame/<@moz-extension://e9821105-07b4-4796-91c1-c7e58d97f514/background.js:11593:29
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:628:13
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:804:18
+]]
+JavaScript error: https://cdn.sbtech.com/rj/sb-betslip-lib/5.6.15/sbBetslipLib.js, line 1: TypeError: e.data[0] is undefined
+1665438443924	Marionette	INFO	Stopped listening on port 51727
+1665438454184	geckodriver	INFO	Listening on 127.0.0.1:51906
+1665438457224	mozrunner::runner	INFO	Running command: "C:\\Users\\ogy572\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51907" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ogy572\\AppData\\Local\\Temp\\rust_mozprofileCmr78T"
+1665438458046	Marionette	INFO	Marionette enabled
+1665438458052	Marionette	INFO	Listening on port 51914
+Read port: 51914
+WebDriver BiDi listening on ws://127.0.0.1:51907
+1665438458187	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ogy572\\AppData\\Local\\Temp\\rust_mozprofileCmr78T\\search.json.mozlz4", (void 0)))
+Extension error: TypeError: globalChrome_1.chrome.runtime.lastError is null moz-extension://a0138fa2-1b31-4e7d-ac6f-5d05d8add771/background.js 11593
+[[Exception stack
+this.AternityExtension.background</TabsStates.prototype.getFrame/<@moz-extension://a0138fa2-1b31-4e7d-ac6f-5d05d8add771/background.js:11593:29
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:628:13
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:804:18
+]]
+Extension error: TypeError: globalChrome_1.chrome.runtime.lastError is null moz-extension://a0138fa2-1b31-4e7d-ac6f-5d05d8add771/background.js 11593
+[[Exception stack
+this.AternityExtension.background</TabsStates.prototype.getFrame/<@moz-extension://a0138fa2-1b31-4e7d-ac6f-5d05d8add771/background.js:11593:29
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:628:13
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:804:18
+]]
+Extension error: TypeError: globalChrome_1.chrome.runtime.lastError is null moz-extension://a0138fa2-1b31-4e7d-ac6f-5d05d8add771/background.js 11593
+[[Exception stack
+this.AternityExtension.background</TabsStates.prototype.getFrame/<@moz-extension://a0138fa2-1b31-4e7d-ac6f-5d05d8add771/background.js:11593:29
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:628:13
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:804:18
+]]
+DevTools listening on ws://127.0.0.1:51907/devtools/browser/20025455-9e35-45a8-900d-065e00f5d5d3
+Extension error: TypeError: globalChrome_1.chrome.runtime.lastError is null moz-extension://a0138fa2-1b31-4e7d-ac6f-5d05d8add771/background.js 11593
+[[Exception stack
+this.AternityExtension.background</TabsStates.prototype.getFrame/<@moz-extension://a0138fa2-1b31-4e7d-ac6f-5d05d8add771/background.js:11593:29
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:628:13
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:804:18
+]]
+JavaScript error: https://cdn.sbtech.com/rj/sb-betslip-lib/5.6.15/sbBetslipLib.js, line 1: TypeError: e.data[0] is undefined
+SourceActor threw an exception: [Exception... "Failed to open input source 'resource://gre/modules/ExtensionContent.jsm'"  nsresult: "0x805303f4 (<unknown>)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 699"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:699:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:543:10
+_fetchURLContents@resource://devtools/server/actors/utils/sources-manager.js:446:22
+urlContents@resource://devtools/server/actors/utils/sources-manager.js:410:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2150:35
+addAllSources@resource://devtools/server/actors/thread.js:1482:14
+watch@resource://devtools/server/actors/resources/sources.js:62:17
+watchResources@resource://devtools/server/actors/resources/index.js:298:19
+_watchTargetResources@resource://devtools/server/actors/targets/target-actor-mixin.js:71:24
+addSessionDataEntry@resource://devtools/server/actors/targets/session-data/resources.js:9:23
+addSessionDataEntry@resource://devtools/server/actors/targets/target-actor-mixin.js:46:25
+_addSessionDataEntry@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:535:24
+receiveMessage@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:444:21
+Line: 699, column: 0
+console.error: ({})
+SourceActor threw an exception: [Exception... "Failed to open input source 'resource://gre/modules/ExtensionContent.jsm'"  nsresult: "0x805303f4 (<unknown>)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 699"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:699:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:543:10
+_fetchURLContents@resource://devtools/server/actors/utils/sources-manager.js:446:22
+urlContents@resource://devtools/server/actors/utils/sources-manager.js:410:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2150:35
+addAllSources@resource://devtools/server/actors/thread.js:1482:14
+watch@resource://devtools/server/actors/resources/sources.js:62:17
+watchResources@resource://devtools/server/actors/resources/index.js:298:19
+_watchTargetResources@resource://devtools/server/actors/targets/target-actor-mixin.js:71:24
+addSessionDataEntry@resource://devtools/server/actors/targets/session-data/resources.js:9:23
+addSessionDataEntry@resource://devtools/server/actors/targets/target-actor-mixin.js:46:25
+_addSessionDataEntry@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:535:24
+receiveMessage@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:444:21
+Line: 699, column: 0
+console.error: ({})
+SourceActor threw an exception: [Exception... "Failed to open input source 'resource://gre/modules/ExtensionContent.jsm'"  nsresult: "0x805303f4 (<unknown>)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 699"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:699:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:543:10
+_fetchURLContents@resource://devtools/server/actors/utils/sources-manager.js:446:22
+urlContents@resource://devtools/server/actors/utils/sources-manager.js:410:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2150:35
+addAllSources@resource://devtools/server/actors/thread.js:1482:14
+watch@resource://devtools/server/actors/resources/sources.js:62:17
+watchResources@resource://devtools/server/actors/resources/index.js:298:19
+_watchTargetResources@resource://devtools/server/actors/targets/target-actor-mixin.js:71:24
+addSessionDataEntry@resource://devtools/server/actors/targets/session-data/resources.js:9:23
+addSessionDataEntry@resource://devtools/server/actors/targets/target-actor-mixin.js:46:25
+_addSessionDataEntry@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:535:24
+receiveMessage@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:444:21
+Line: 699, column: 0
+console.error: ({})
+SourceActor threw an exception: [Exception... "Failed to open input source 'resource://gre/modules/ExtensionContent.jsm'"  nsresult: "0x805303f4 (<unknown>)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 699"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:699:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:543:10
+_fetchURLContents@resource://devtools/server/actors/utils/sources-manager.js:446:22
+urlContents@resource://devtools/server/actors/utils/sources-manager.js:410:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2150:35
+addAllSources@resource://devtools/server/actors/thread.js:1482:14
+watch@resource://devtools/server/actors/resources/sources.js:62:17
+watchResources@resource://devtools/server/actors/resources/index.js:298:19
+_watchTargetResources@resource://devtools/server/actors/targets/target-actor-mixin.js:71:24
+addSessionDataEntry@resource://devtools/server/actors/targets/session-data/resources.js:9:23
+addSessionDataEntry@resource://devtools/server/actors/targets/target-actor-mixin.js:46:25
+_addSessionDataEntry@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:535:24
+receiveMessage@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:444:21
+Line: 699, column: 0
+console.error: ({})
+SourceActor threw an exception: [Exception... "Failed to open input source 'resource://gre/modules/ExtensionContent.jsm'"  nsresult: "0x805303f4 (<unknown>)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 699"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:699:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:543:10
+_fetchURLContents@resource://devtools/server/actors/utils/sources-manager.js:446:22
+urlContents@resource://devtools/server/actors/utils/sources-manager.js:410:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2150:35
+addAllSources@resource://devtools/server/actors/thread.js:1482:14
+watch@resource://devtools/server/actors/resources/sources.js:62:17
+watchResources@resource://devtools/server/actors/resources/index.js:298:19
+_watchTargetResources@resource://devtools/server/actors/targets/target-actor-mixin.js:71:24
+addSessionDataEntry@resource://devtools/server/actors/targets/session-data/resources.js:9:23
+addSessionDataEntry@resource://devtools/server/actors/targets/target-actor-mixin.js:46:25
+_addSessionDataEntry@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:535:24
+receiveMessage@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:444:21
+Line: 699, column: 0
+console.error: ({})
+SourceActor threw an exception: [Exception... "Failed to open input source 'file:///'"  nsresult: "0x805303f4 (<unknown>)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 699"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:699:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:543:10
+_fetchURLContents@resource://devtools/server/actors/utils/sources-manager.js:446:22
+urlContents@resource://devtools/server/actors/utils/sources-manager.js:410:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2150:35
+addAllSources@resource://devtools/server/actors/thread.js:1482:14
+watch@resource://devtools/server/actors/resources/sources.js:62:17
+watchResources@resource://devtools/server/actors/resources/index.js:298:19
+_watchTargetResources@resource://devtools/server/actors/targets/target-actor-mixin.js:71:24
+addSessionDataEntry@resource://devtools/server/actors/targets/session-data/resources.js:9:23
+addSessionDataEntry@resource://devtools/server/actors/targets/target-actor-mixin.js:46:25
+_addSessionDataEntry@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:535:24
+receiveMessage@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:444:21
+Line: 699, column: 0
+console.error: ({})
+SourceActor threw an exception: [Exception... "Failed to open input source 'resource://gre/modules/ExtensionContent.jsm'"  nsresult: "0x805303f4 (<unknown>)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 699"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:699:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:543:10
+_fetchURLContents@resource://devtools/server/actors/utils/sources-manager.js:446:22
+urlContents@resource://devtools/server/actors/utils/sources-manager.js:410:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2150:35
+addAllSources@resource://devtools/server/actors/thread.js:1482:14
+watch@resource://devtools/server/actors/resources/sources.js:62:17
+watchResources@resource://devtools/server/actors/resources/index.js:298:19
+_watchTargetResources@resource://devtools/server/actors/targets/target-actor-mixin.js:71:24
+addSessionDataEntry@resource://devtools/server/actors/targets/session-data/resources.js:9:23
+addSessionDataEntry@resource://devtools/server/actors/targets/target-actor-mixin.js:46:25
+_addSessionDataEntry@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:535:24
+receiveMessage@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:444:21
+Line: 699, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 699: Failed to open input source 'resource://gre/modules/ExtensionContent.jsm'
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 699: Failed to open input source 'resource://gre/modules/ExtensionContent.jsm'
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 699: Failed to open input source 'resource://gre/modules/ExtensionContent.jsm'
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 699: Failed to open input source 'resource://gre/modules/ExtensionContent.jsm'
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 699: Failed to open input source 'resource://gre/modules/ExtensionContent.jsm'
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 699: Failed to open input source 'file:///'
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 699: Failed to open input source 'resource://gre/modules/ExtensionContent.jsm'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1665439198568	Marionette	INFO	Stopped listening on port 51914
+6-ccf0-43ca-a99f-71c4808e1435/background.js 11593
+[[Exception stack
+this.AternityExtension.background</TabsStates.prototype.getFrame/<@moz-extension://1580d626-ccf0-43ca-a99f-71c4808e1435/background.js:11593:29
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:628:13
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:804:18
+]]
+Extension error: TypeError: globalChrome_1.chrome.runtime.lastError is null moz-extension://1580d626-ccf0-43ca-a99f-71c4808e1435/background.js 11593
+[[Exception stack
+this.AternityExtension.background</TabsStates.prototype.getFrame/<@moz-extension://1580d626-ccf0-43ca-a99f-71c4808e1435/background.js:11593:29
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:628:13
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:804:18
+]]
+Extension error: TypeError: globalChrome_1.chrome.runtime.lastError is null moz-extension://1580d626-ccf0-43ca-a99f-71c4808e1435/background.js 11593
+[[Exception stack
+this.AternityExtension.background</TabsStates.prototype.getFrame/<@moz-extension://1580d626-ccf0-43ca-a99f-71c4808e1435/background.js:11593:29
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:628:13
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:804:18
+]]
+DevTools listening on ws://127.0.0.1:52903/devtools/browser/1bdea6a1-a929-4868-a95c-7c1ce1b803d8
+Extension error: TypeError: globalChrome_1.chrome.runtime.lastError is null moz-extension://1580d626-ccf0-43ca-a99f-71c4808e1435/background.js 11593
+[[Exception stack
+this.AternityExtension.background</TabsStates.prototype.getFrame/<@moz-extension://1580d626-ccf0-43ca-a99f-71c4808e1435/background.js:11593:29
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:628:13
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:804:18
+]]
+1665438830526	Marionette	INFO	Stopped listening on port 52910
+1665438853533	geckodriver	INFO	Listening on 127.0.0.1:53101
+1665438856574	mozrunner::runner	INFO	Running command: "C:\\Users\\ogy572\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53102" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ogy572\\AppData\\Local\\Temp\\rust_mozprofileTzN0Nx"
+1665438857389	Marionette	INFO	Marionette enabled
+1665438857395	Marionette	INFO	Listening on port 53109
+Read port: 53109
+WebDriver BiDi listening on ws://127.0.0.1:53102
+1665438857525	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ogy572\\AppData\\Local\\Temp\\rust_mozprofileTzN0Nx\\search.json.mozlz4", (void 0)))
+Extension error: TypeError: globalChrome_1.chrome.runtime.lastError is null moz-extension://17f38b2a-3012-42dc-8c42-f79a081fc712/background.js 11593
+[[Exception stack
+this.AternityExtension.background</TabsStates.prototype.getFrame/<@moz-extension://17f38b2a-3012-42dc-8c42-f79a081fc712/background.js:11593:29
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:628:13
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:804:18
+]]
+Extension error: TypeError: globalChrome_1.chrome.runtime.lastError is null moz-extension://17f38b2a-3012-42dc-8c42-f79a081fc712/background.js 11593
+[[Exception stack
+this.AternityExtension.background</TabsStates.prototype.getFrame/<@moz-extension://17f38b2a-3012-42dc-8c42-f79a081fc712/background.js:11593:29
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:628:13
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:804:18
+]]
+Extension error: TypeError: globalChrome_1.chrome.runtime.lastError is null moz-extension://17f38b2a-3012-42dc-8c42-f79a081fc712/background.js 11593
+[[Exception stack
+this.AternityExtension.background</TabsStates.prototype.getFrame/<@moz-extension://17f38b2a-3012-42dc-8c42-f79a081fc712/background.js:11593:29
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:628:13
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:804:18
+]]
+DevTools listening on ws://127.0.0.1:53102/devtools/browser/3d899c55-83dc-4433-b223-3976a8ec0304
+1665438860288	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+Extension error: TypeError: globalChrome_1.chrome.runtime.lastError is null moz-extension://17f38b2a-3012-42dc-8c42-f79a081fc712/background.js 11593
+[[Exception stack
+this.AternityExtension.background</TabsStates.prototype.getFrame/<@moz-extension://17f38b2a-3012-42dc-8c42-f79a081fc712/background.js:11593:29
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:628:13
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:804:18
+]]
+JavaScript error: https://cdn.sbtech.com/rj/sb-betslip-lib/5.6.15/sbBetslipLib.js, line 1: TypeError: e.data[0] is undefined
+1665438884425	Marionette	INFO	Stopped listening on port 53109
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1665438888750	geckodriver	INFO	Listening on 127.0.0.1:53608
+1665438891790	mozrunner::runner	INFO	Running command: "C:\\Users\\ogy572\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53609" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ogy572\\AppData\\Local\\Temp\\rust_mozprofile6ZqrhP"
+1665438892636	Marionette	INFO	Marionette enabled
+1665438892641	Marionette	INFO	Listening on port 53616
+Read port: 53616
+WebDriver BiDi listening on ws://127.0.0.1:53609
+1665438892773	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ogy572\\AppData\\Local\\Temp\\rust_mozprofile6ZqrhP\\search.json.mozlz4", (void 0)))
+Extension error: TypeError: globalChrome_1.chrome.runtime.lastError is null moz-extension://417b1e3c-7b82-49f0-bb36-5fbf87817ddd/background.js 11593
+[[Exception stack
+this.AternityExtension.background</TabsStates.prototype.getFrame/<@moz-extension://417b1e3c-7b82-49f0-bb36-5fbf87817ddd/background.js:11593:29
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:628:13
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:804:18
+]]
+Extension error: TypeError: globalChrome_1.chrome.runtime.lastError is null moz-extension://417b1e3c-7b82-49f0-bb36-5fbf87817ddd/background.js 11593
+[[Exception stack
+this.AternityExtension.background</TabsStates.prototype.getFrame/<@moz-extension://417b1e3c-7b82-49f0-bb36-5fbf87817ddd/background.js:11593:29
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:628:13
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:804:18
+]]
+Extension error: TypeError: globalChrome_1.chrome.runtime.lastError is null moz-extension://417b1e3c-7b82-49f0-bb36-5fbf87817ddd/background.js 11593
+[[Exception stack
+this.AternityExtension.background</TabsStates.prototype.getFrame/<@moz-extension://417b1e3c-7b82-49f0-bb36-5fbf87817ddd/background.js:11593:29
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:628:13
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:804:18
+]]
+DevTools listening on ws://127.0.0.1:53609/devtools/browser/2b8c3778-f4b1-4f27-b4a4-b713953863cf
+Extension error: TypeError: globalChrome_1.chrome.runtime.lastError is null moz-extension://417b1e3c-7b82-49f0-bb36-5fbf87817ddd/background.js 11593
+[[Exception stack
+this.AternityExtension.background</TabsStates.prototype.getFrame/<@moz-extension://417b1e3c-7b82-49f0-bb36-5fbf87817ddd/background.js:11593:29
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:628:13
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:804:18
+]]
+1665439197185	Marionette	INFO	Stopped listening on port 53616
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+-marionette" "--remote-debugging-port" "53822" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ogy572\\AppData\\Local\\Temp\\rust_mozprofileik6Doa"
+1665438931702	Marionette	INFO	Marionette enabled
+1665438931707	Marionette	INFO	Listening on port 53829
+Read port: 53829
+WebDriver BiDi listening on ws://127.0.0.1:53822
+1665438931840	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ogy572\\AppData\\Local\\Temp\\rust_mozprofileik6Doa\\search.json.mozlz4", (void 0)))
+Extension error: TypeError: globalChrome_1.chrome.runtime.lastError is null moz-extension://53d2ac91-7c58-4e78-8b98-e7c05aa15b1f/background.js 11593
+[[Exception stack
+this.AternityExtension.background</TabsStates.prototype.getFrame/<@moz-extension://53d2ac91-7c58-4e78-8b98-e7c05aa15b1f/background.js:11593:29
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:628:13
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:804:18
+]]
+Extension error: TypeError: globalChrome_1.chrome.runtime.lastError is null moz-extension://53d2ac91-7c58-4e78-8b98-e7c05aa15b1f/background.js 11593
+[[Exception stack
+this.AternityExtension.background</TabsStates.prototype.getFrame/<@moz-extension://53d2ac91-7c58-4e78-8b98-e7c05aa15b1f/background.js:11593:29
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:628:13
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:804:18
+]]
+Extension error: TypeError: globalChrome_1.chrome.runtime.lastError is null moz-extension://53d2ac91-7c58-4e78-8b98-e7c05aa15b1f/background.js 11593
+[[Exception stack
+this.AternityExtension.background</TabsStates.prototype.getFrame/<@moz-extension://53d2ac91-7c58-4e78-8b98-e7c05aa15b1f/background.js:11593:29
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:628:13
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:804:18
+]]
+DevTools listening on ws://127.0.0.1:53822/devtools/browser/1408f003-ee61-4457-a0bf-7cfbde7d37be
+1665438934734	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+Extension error: TypeError: globalChrome_1.chrome.runtime.lastError is null moz-extension://53d2ac91-7c58-4e78-8b98-e7c05aa15b1f/background.js 11593
+[[Exception stack
+this.AternityExtension.background</TabsStates.prototype.getFrame/<@moz-extension://53d2ac91-7c58-4e78-8b98-e7c05aa15b1f/background.js:11593:29
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:628:13
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:804:18
+]]
+JavaScript error: https://cdn.sbtech.com/rj/sb-betslip-lib/5.6.15/sbBetslipLib.js, line 1: TypeError: e.data[0] is undefined
+1665438938575	Marionette	INFO	Stopped listening on port 53829
+1665439038276	geckodriver	INFO	Listening on 127.0.0.1:54024
+1665439041319	mozrunner::runner	INFO	Running command: "C:\\Users\\ogy572\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54025" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ogy572\\AppData\\Local\\Temp\\rust_mozprofileQy84Ca"
+1665439042143	Marionette	INFO	Marionette enabled
+1665439042148	Marionette	INFO	Listening on port 54033
+Read port: 54033
+WebDriver BiDi listening on ws://127.0.0.1:54025
+1665439042287	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ogy572\\AppData\\Local\\Temp\\rust_mozprofileQy84Ca\\search.json.mozlz4", (void 0)))
+Extension error: TypeError: globalChrome_1.chrome.runtime.lastError is null moz-extension://9f7692e2-1160-466d-9208-5cefd72c338a/background.js 11593
+[[Exception stack
+this.AternityExtension.background</TabsStates.prototype.getFrame/<@moz-extension://9f7692e2-1160-466d-9208-5cefd72c338a/background.js:11593:29
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:628:13
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:804:18
+]]
+Extension error: TypeError: globalChrome_1.chrome.runtime.lastError is null moz-extension://9f7692e2-1160-466d-9208-5cefd72c338a/background.js 11593
+[[Exception stack
+this.AternityExtension.background</TabsStates.prototype.getFrame/<@moz-extension://9f7692e2-1160-466d-9208-5cefd72c338a/background.js:11593:29
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:628:13
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:804:18
+]]
+Extension error: TypeError: globalChrome_1.chrome.runtime.lastError is null moz-extension://9f7692e2-1160-466d-9208-5cefd72c338a/background.js 11593
+[[Exception stack
+this.AternityExtension.background</TabsStates.prototype.getFrame/<@moz-extension://9f7692e2-1160-466d-9208-5cefd72c338a/background.js:11593:29
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:628:13
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:804:18
+]]
+DevTools listening on ws://127.0.0.1:54025/devtools/browser/89cdc4fc-6713-4edb-9975-3c0b92e33f49
+1665439045228	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+Extension error: TypeError: globalChrome_1.chrome.runtime.lastError is null moz-extension://9f7692e2-1160-466d-9208-5cefd72c338a/background.js 11593
+[[Exception stack
+this.AternityExtension.background</TabsStates.prototype.getFrame/<@moz-extension://9f7692e2-1160-466d-9208-5cefd72c338a/background.js:11593:29
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:628:13
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:804:18
+]]
+JavaScript error: https://cdn.sbtech.com/rj/sb-betslip-lib/5.6.15/sbBetslipLib.js, line 1: TypeError: e.data[0] is undefined
+1665439195620	Marionette	INFO	Stopped listening on port 54033
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+-marionette" "--remote-debugging-port" "54249" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ogy572\\AppData\\Local\\Temp\\rust_mozprofile6HgZXj"
+1665439082413	Marionette	INFO	Marionette enabled
+1665439082419	Marionette	INFO	Listening on port 54256
+Read port: 54256
+WebDriver BiDi listening on ws://127.0.0.1:54249
+1665439082556	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ogy572\\AppData\\Local\\Temp\\rust_mozprofile6HgZXj\\search.json.mozlz4", (void 0)))
+Extension error: TypeError: globalChrome_1.chrome.runtime.lastError is null moz-extension://02a5598c-618d-4feb-becd-a180850abad9/background.js 11593
+[[Exception stack
+this.AternityExtension.background</TabsStates.prototype.getFrame/<@moz-extension://02a5598c-618d-4feb-becd-a180850abad9/background.js:11593:29
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:628:13
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:804:18
+]]
+Extension error: TypeError: globalChrome_1.chrome.runtime.lastError is null moz-extension://02a5598c-618d-4feb-becd-a180850abad9/background.js 11593
+[[Exception stack
+this.AternityExtension.background</TabsStates.prototype.getFrame/<@moz-extension://02a5598c-618d-4feb-becd-a180850abad9/background.js:11593:29
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:628:13
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:804:18
+]]
+Extension error: TypeError: globalChrome_1.chrome.runtime.lastError is null moz-extension://02a5598c-618d-4feb-becd-a180850abad9/background.js 11593
+[[Exception stack
+this.AternityExtension.background</TabsStates.prototype.getFrame/<@moz-extension://02a5598c-618d-4feb-becd-a180850abad9/background.js:11593:29
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:628:13
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:804:18
+]]
+DevTools listening on ws://127.0.0.1:54249/devtools/browser/95c343da-ca32-4bff-8cb5-bdb2ceab6217
+Extension error: TypeError: globalChrome_1.chrome.runtime.lastError is null moz-extension://02a5598c-618d-4feb-becd-a180850abad9/background.js 11593
+[[Exception stack
+this.AternityExtension.background</TabsStates.prototype.getFrame/<@moz-extension://02a5598c-618d-4feb-becd-a180850abad9/background.js:11593:29
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:628:13
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:804:18
+]]
+JavaScript error: https://cdn.sbtech.com/rj/sb-betslip-lib/5.6.15/sbBetslipLib.js, line 1: TypeError: e.data[0] is undefined
+1665439089468	Marionette	INFO	Stopped listening on port 54256
+1665439172378	geckodriver	INFO	Listening on 127.0.0.1:54471
+1665439175411	mozrunner::runner	INFO	Running command: "C:\\Users\\ogy572\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54472" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ogy572\\AppData\\Local\\Temp\\rust_mozprofilemvOh3K"
+1665439176291	Marionette	INFO	Marionette enabled
+1665439176297	Marionette	INFO	Listening on port 54480
+Read port: 54480
+WebDriver BiDi listening on ws://127.0.0.1:54472
+1665439176459	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ogy572\\AppData\\Local\\Temp\\rust_mozprofilemvOh3K\\search.json.mozlz4", (void 0)))
+Extension error: TypeError: globalChrome_1.chrome.runtime.lastError is null moz-extension://7dcadd20-0ba6-4fce-bd2c-7e5ca8c2f5ec/background.js 11593
+[[Exception stack
+this.AternityExtension.background</TabsStates.prototype.getFrame/<@moz-extension://7dcadd20-0ba6-4fce-bd2c-7e5ca8c2f5ec/background.js:11593:29
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:628:13
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:804:18
+]]
+Extension error: TypeError: globalChrome_1.chrome.runtime.lastError is null moz-extension://7dcadd20-0ba6-4fce-bd2c-7e5ca8c2f5ec/background.js 11593
+[[Exception stack
+this.AternityExtension.background</TabsStates.prototype.getFrame/<@moz-extension://7dcadd20-0ba6-4fce-bd2c-7e5ca8c2f5ec/background.js:11593:29
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:628:13
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:804:18
+]]
+Extension error: TypeError: globalChrome_1.chrome.runtime.lastError is null moz-extension://7dcadd20-0ba6-4fce-bd2c-7e5ca8c2f5ec/background.js 11593
+[[Exception stack
+this.AternityExtension.background</TabsStates.prototype.getFrame/<@moz-extension://7dcadd20-0ba6-4fce-bd2c-7e5ca8c2f5ec/background.js:11593:29
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:628:13
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:804:18
+]]
+DevTools listening on ws://127.0.0.1:54472/devtools/browser/a28ab4b1-10f3-4dc2-94f6-f1faec68072d
+1665439195096	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+Extension error: TypeError: globalChrome_1.chrome.runtime.lastError is null moz-extension://7dcadd20-0ba6-4fce-bd2c-7e5ca8c2f5ec/background.js 11593
+[[Exception stack
+this.AternityExtension.background</TabsStates.prototype.getFrame/<@moz-extension://7dcadd20-0ba6-4fce-bd2c-7e5ca8c2f5ec/background.js:11593:29
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:628:13
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:804:18
+]]
+JavaScript error: https://cdn.sbtech.com/rj/sb-betslip-lib/5.6.15/sbBetslipLib.js, line 1: TypeError: e.data[0] is undefined
+JavaScript error: https://cdn.sbtech.com/rj/sb-betslip-lib/5.6.15/sbBetslipLib.js, line 1: TypeError: e.data[0] is undefined
+JavaScript error: https://cdn.sbtech.com/rj/sb-betslip-lib/5.6.15/sbBetslipLib.js, line 1: TypeError: e.data[0] is undefined
+1665439209910	Marionette	INFO	Stopped listening on port 54480
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.

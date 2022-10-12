@@ -1,5 +1,5 @@
 import sys
-sys.path.insert(0, "C:\\Users\\ogy572\\PycharmProjects\\arbitrage_betting\\bookmakers")
+sys.path.insert(0, r"C:\Users\ogy572\PycharmProjects\arbitrage_betting\bookmakers")
 
 
 import json
@@ -8,7 +8,7 @@ from bookmakers import *
 
 
 sport = "football"
-with open("/bookmakers/top_leagues.json") as json_file:
+with open("top_leagues.json") as json_file:
     data = json.load(json_file)
     leagues = data[sport]
 
@@ -19,7 +19,7 @@ with open("/bookmakers/top_leagues.json") as json_file:
 # print("888sport")
 # sport888()
 
-print("bethard", leagues)
+print("bethard")
 bethard("football", leagues)
 #
 # # print("snabbare")

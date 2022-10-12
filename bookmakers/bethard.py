@@ -1,27 +1,34 @@
+from pathlib import Path
+
 import selenium.common.exceptions
 from selenium import webdriver
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.common.by import By
 from selenium.webdriver.firefox.options import Options
+from selenium.webdriver.firefox.firefox_binary import FirefoxBinary
 from helpers import *
 
-
-
-def bethard(sport='football', league=[]):
+print()
+def bethard(sport='football', leagues=[]):
     web = "https://www.bethard.com/sv/sports"
-    firefox_path = "/usr/local/bin/"
+
+    # firefox_path = "/usr/local/bin/"
+    path = Path(__file__).parent.parent / sport
+
+
+    firefox_path = r"C:\Users\ogy572\AppData\Local\Mozilla Firefox\firefox.exe"
 
     games = []
     odds = []
-
-    path = "/home/per/Desktop/pythonProject/arbitrage_betting/" + sport + "/"
-    filename = path + "bethard" + "_" + sport
-
+    name = "bethard" + "_" + sport
+    filename = path / name
+    print(filename)
     # Open browser
     options = Options()
+    options.binary_location = FirefoxBinary(firefox_path)
     # options.add_argument("--headless")
-    driver = webdriver.Firefox(firefox_path, options=options)
+    driver = webdriver.Firefox(options=options)
     driver.get(web)
 
     # Cookies
@@ -62,6 +69,12 @@ def bethard(sport='football', league=[]):
         if tab.text.lower() == "alla ligor":
             driver.execute_script("arguments[0].click();", tab)
 
+    # Show all competitions button
+    show_all_btn_cn = "rj-league-list__show-all-btn"
+    WebDriverWait(driver, 10).until(EC.presence_of_element_located((By.CLASS_NAME, show_all_btn_cn)))
+    show_all_btn_cn = driver.find_element(By.CLASS_NAME, show_all_btn_cn)
+    driver.execute_script("arguments[0].click();", show_all_btn_cn)
+
     # Store hrefs of competitions
     hrefs = set()  # Store links to scrape data
     competitions_cn = "rj-league-list__item-link"
@@ -72,9 +85,14 @@ def bethard(sport='football', league=[]):
         if not leagues:
             hrefs.add(competition.get_attribute("href"))
         else:
-            if any(league.lower() in competition.text.lower() for league in leagues):
-                print(competition.text)
-            
+            ct = competition.text
+
+            if len(ct.split("-")) > 1:
+                if any(l.lower() in ct.lower() and eng_to_swe(c.lower()) in ct.lower() for c, l in leagues):
+                    hrefs.add(competition.get_attribute("href"))
+            else:
+                if any(l.lower() in ct.lower() for c, l in leagues):
+                    hrefs.add(competition.get_attribute("href"))
 
     events_css = "div[class^='rj-ev-list__ev-card rj-ev-list__ev-card--regular rj-ev-list__ev-card']"
     names_cn = "rj-ev-list__bet-btn__content.rj-ev-list__bet-btn__text"

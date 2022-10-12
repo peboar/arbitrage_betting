@@ -3,17 +3,23 @@ from fuzzywuzzy import fuzz
 import pandas as pd
 import pickle
 
-
 def eng_to_swe(sport):
     """
-    Translates english sport to swedish
+    Translates sports and nation to swedish
     :param sport: english string
     :return: swedish string
     """
     sport = sport.lower()
     sports = {'football': 'fotboll',
               'tennis': 'tennis',
-              'ice hockey': 'ishockey'}
+              'ice hockey': 'ishockey',
+              'england': 'england',
+              'germany': 'tyskland',
+              'spain': 'spanien',
+              'france': 'frankrike',
+              'netherlands': 'nederländerna',
+              'sweden': 'sverige',
+              'italy': 'italien'}
 
     return sports[sport]
 

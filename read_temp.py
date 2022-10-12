@@ -1,6 +1,5 @@
 from helpers import *
 import json
-import pandas as pd
 import pickle
 
 sport = "football"

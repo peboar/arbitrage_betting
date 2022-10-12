@@ -8,7 +8,6 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.firefox.options import Options
 from helpers import *
 from selenium.webdriver.common.keys import Keys
-from selenium.common.exceptions import TimeoutException
 
 
 def snabbare(sport='football'):
