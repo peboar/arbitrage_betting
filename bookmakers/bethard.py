@@ -8,7 +8,6 @@ from selenium.webdriver.firefox.options import Options
 from selenium.webdriver.firefox.firefox_binary import FirefoxBinary
 from helpers import *
 
-print()
 def bethard(sport='football', leagues=[]):
     web = "https://www.bethard.com/sv/sports"
 
@@ -133,6 +132,4 @@ def bethard(sport='football', leagues=[]):
                 odds.append(game_odds(*odds_event))
 
     driver.close()
-    print(games)
-    print(odds)
     save_frame(filename, games, odds, web)
