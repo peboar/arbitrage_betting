@@ -1903,3 +1903,77 @@ JavaScript error: https://cdn.sbtech.com/rj/sb-betslip-lib/5.6.15/sbBetslipLib.j
 JavaScript error: https://cdn.sbtech.com/rj/sb-betslip-lib/5.6.15/sbBetslipLib.js, line 1: TypeError: e.data[0] is undefined
 JavaScript error: https://cdn.sbtech.com/rj/sb-betslip-lib/5.6.15/sbBetslipLib.js, line 1: TypeError: e.data[0] is undefined
 1665574415964	Marionette	INFO	Stopped listening on port 51652
+1665574737448	geckodriver	INFO	Listening on 127.0.0.1:52413
+1665574740492	mozrunner::runner	INFO	Running command: "C:\\Users\\ogy572\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "52414" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ogy572\\AppData\\Local\\Temp\\rust_mozprofilemzJi55"
+*** You are running in headless mode.
+1665574741319	Marionette	INFO	Marionette enabled
+1665574741324	Marionette	INFO	Listening on port 52421
+Read port: 52421
+WebDriver BiDi listening on ws://127.0.0.1:52414
+1665574741426	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ogy572\\AppData\\Local\\Temp\\rust_mozprofilemzJi55\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52414/devtools/browser/9887de76-c64c-4968-a7d8-95901f5df40f
+JavaScript error: resource://gre/modules/ExtensionContent.jsm, line 580: TypeError: PrecompiledScript.executeInGlobal: Argument 1 is not an object.
+JavaScript error: resource://gre/modules/ExtensionContent.jsm, line 580: TypeError: PrecompiledScript.executeInGlobal: Argument 1 is not an object.
+JavaScript error: resource://gre/modules/ExtensionContent.jsm, line 580: TypeError: PrecompiledScript.executeInGlobal: Argument 1 is not an object.
+JavaScript error: resource://gre/modules/ExtensionContent.jsm, line 580: TypeError: PrecompiledScript.executeInGlobal: Argument 1 is not an object.
+JavaScript error: resource://gre/modules/ExtensionContent.jsm, line 580: TypeError: PrecompiledScript.executeInGlobal: Argument 1 is not an object.
+JavaScript error: resource://gre/modules/ExtensionContent.jsm, line 580: TypeError: PrecompiledScript.executeInGlobal: Argument 1 is not an object.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.snabbare.com."
+Extension error: TypeError: globalChrome_1.chrome.runtime.lastError is null moz-extension://012bd08b-7d36-4454-9971-3ddb070a08eb/background.js 11593
+[[Exception stack
+this.AternityExtension.background</TabsStates.prototype.getFrame/<@moz-extension://012bd08b-7d36-4454-9971-3ddb070a08eb/background.js:11593:29
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:628:13
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:804:18
+]]
+Extension error: TypeError: globalChrome_1.chrome.runtime.lastError is null moz-extension://012bd08b-7d36-4454-9971-3ddb070a08eb/background.js 11593
+[[Exception stack
+this.AternityExtension.background</TabsStates.prototype.getFrame/<@moz-extension://012bd08b-7d36-4454-9971-3ddb070a08eb/background.js:11593:29
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:628:13
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:804:18
+]]
+JavaScript error: https://cdn.sbtech.com/rj/sb-betslip-lib/5.6.15/sbBetslipLib.js, line 1: TypeError: e.data[0] is undefined
+1665574747475	geckodriver	INFO	Listening on 127.0.0.1:52597
+1665574750524	mozrunner::runner	INFO	Running command: "C:\\Users\\ogy572\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52598" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ogy572\\AppData\\Local\\Temp\\rust_mozprofileyXcqnB"
+1665574751340	Marionette	INFO	Marionette enabled
+1665574751345	Marionette	INFO	Listening on port 52606
+Read port: 52606
+WebDriver BiDi listening on ws://127.0.0.1:52598
+1665574751479	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ogy572\\AppData\\Local\\Temp\\rust_mozprofileyXcqnB\\search.json.mozlz4", (void 0)))
+Extension error: TypeError: globalChrome_1.chrome.runtime.lastError is null moz-extension://f261f6c0-16a9-47f6-be2e-d662fded4328/background.js 11593
+[[Exception stack
+this.AternityExtension.background</TabsStates.prototype.getFrame/<@moz-extension://f261f6c0-16a9-47f6-be2e-d662fded4328/background.js:11593:29
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:628:13
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:804:18
+]]
+Extension error: TypeError: globalChrome_1.chrome.runtime.lastError is null moz-extension://f261f6c0-16a9-47f6-be2e-d662fded4328/background.js 11593
+[[Exception stack
+this.AternityExtension.background</TabsStates.prototype.getFrame/<@moz-extension://f261f6c0-16a9-47f6-be2e-d662fded4328/background.js:11593:29
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:628:13
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:804:18
+]]
+Extension error: TypeError: globalChrome_1.chrome.runtime.lastError is null moz-extension://f261f6c0-16a9-47f6-be2e-d662fded4328/background.js 11593
+[[Exception stack
+this.AternityExtension.background</TabsStates.prototype.getFrame/<@moz-extension://f261f6c0-16a9-47f6-be2e-d662fded4328/background.js:11593:29
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:628:13
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:804:18
+]]
+DevTools listening on ws://127.0.0.1:52598/devtools/browser/06ead8ac-9e97-49eb-8f7b-3a78fdbc7adf
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.snabbare.com."
+Extension error: TypeError: globalChrome_1.chrome.runtime.lastError is null moz-extension://f261f6c0-16a9-47f6-be2e-d662fded4328/background.js 11593
+[[Exception stack
+this.AternityExtension.background</TabsStates.prototype.getFrame/<@moz-extension://f261f6c0-16a9-47f6-be2e-d662fded4328/background.js:11593:29
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:628:13
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:804:18
+]]
+JavaScript error: https://cdn.sbtech.com/rj/sb-betslip-lib/5.6.15/sbBetslipLib.js, line 1: TypeError: e.data[0] is undefined
+1665574817399	Marionette	INFO	Stopped listening on port 52606
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.

@@ -25,11 +25,11 @@ with open("top_leagues.json") as json_file:
 # print("888sport")
 # sport888()
 
-print("bethard")
-bethard("football", leagues)
+# print("bethard")
+# bethard("football", leagues)
 #
-# # print("snabbare")
-# snabbare("football")
+print("snabbare")
+snabbare("football")
 
 # print("betsafe")
 # betsafe('football')
