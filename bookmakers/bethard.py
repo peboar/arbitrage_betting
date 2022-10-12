@@ -1,5 +1,4 @@
 from pathlib import Path
-
 import selenium.common.exceptions
 from selenium import webdriver
 from selenium.webdriver.support.ui import WebDriverWait
@@ -21,13 +20,12 @@ def bethard(sport='football', leagues=[]):
 
     games = []
     odds = []
-    name = "bethard" + "_" + sport
+    name = "bethard" + "_" + sport + ".pickle"
     filename = path / name
-    print(filename)
     # Open browser
     options = Options()
     options.binary_location = FirefoxBinary(firefox_path)
-    # options.add_argument("--headless")
+    options.add_argument("--headless")
     driver = webdriver.Firefox(options=options)
     driver.get(web)
 
@@ -59,8 +57,9 @@ def bethard(sport='football', leagues=[]):
     counter = 0
 
     # Makes sure all league button is present
-    while "Alla ligor" not in tabs_text and counter < 1e2:
+    while "Alla ligor" not in tabs_text and counter < 1e2:  # Not working right now
         counter += 1
+        print(counter, tabs_text)
         tabs = driver.find_elements(By.CLASS_NAME, tabs_cn)
         tabs_text = [tab.text for tab in tabs]
 
@@ -134,4 +133,6 @@ def bethard(sport='football', leagues=[]):
                 odds.append(game_odds(*odds_event))
 
     driver.close()
-    save_frame(filename, games, odds)
+    print(games)
+    print(odds)
+    save_frame(filename, games, odds, web)

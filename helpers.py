@@ -70,7 +70,7 @@ def game_odds(*odds):
 
 def save_frame(*args):
     """
-    Saves dataframe of match odds. Only winner and loser is supported currently.
+    Saves dataframe of match odds.
     3 args: filename, games, odds
     4 args: path, filename, games, odds
     """
@@ -79,7 +79,7 @@ def save_frame(*args):
         n = len(odds)
         m = len(odds[0])
     else:
-        raise TypeError('save_frame takes 3 arguments')
+        raise TypeError('save_frame takes 4 arguments')
 
     wd = {"Webb" + str(i + 1): n * [webb] for i in range(m)}
     od = {"Odds" + str(j + 1): [odds[i][j] for i in range(n)] for j in range(m)}

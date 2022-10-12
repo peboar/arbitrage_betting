@@ -1,4 +1,7 @@
 import sys
+from pathlib import Path
+
+
 sys.path.insert(0, r"C:\Users\ogy572\PycharmProjects\arbitrage_betting\bookmakers")
 
 
@@ -8,6 +11,9 @@ from bookmakers import *
 
 
 sport = "football"
+sport_path = Path(__file__).parent / sport
+Path(sport_path).mkdir(parents=True, exist_ok=True)
+
 with open("top_leagues.json") as json_file:
     data = json.load(json_file)
     leagues = data[sport]
