@@ -2,7 +2,6 @@ import sys
 from pathlib import Path
 
 
-sys.path.insert(0, r"C:\Users\ogy572\PycharmProjects\arbitrage_betting\bookmakers")
 
 
 import json
