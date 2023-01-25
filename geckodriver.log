@@ -1977,3 +1977,177 @@ wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:804:18
 JavaScript error: https://cdn.sbtech.com/rj/sb-betslip-lib/5.6.15/sbBetslipLib.js, line 1: TypeError: e.data[0] is undefined
 1665574817399	Marionette	INFO	Stopped listening on port 52606
 console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1669150697149	geckodriver	INFO	Listening on 127.0.0.1:49239
+1669151741402	geckodriver	INFO	Listening on 127.0.0.1:42275
+1669151768261	geckodriver	INFO	Listening on 127.0.0.1:35461
+1669151815779	geckodriver	INFO	Listening on 127.0.0.1:56855
+1669151916164	geckodriver	INFO	Listening on 127.0.0.1:35597
+1669238607272	geckodriver	INFO	Listening on 127.0.0.1:55893
+1669238607285	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "56219" "-no-remote" "-profile" "/tmp/rust_mozprofileVMEnLC"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1669238608893	Marionette	INFO	Marionette enabled
+1669238608897	Marionette	INFO	Listening on port 38067
+WebDriver BiDi listening on ws://127.0.0.1:56219
+1669238609288	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileVMEnLC/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56219/devtools/browser/a1ee31b9-6bdd-4bf8-8684-087c67001d4a
+JavaScript error: https://m-se.snabbare.com/sports/?langid=null&sToken=logout, line 678: SyntaxError: JSON.parse: unexpected character at line 1 column 2 of the JSON data
+JavaScript error: https://comeon.nowbetnow.com/js/comeon/stream.min.js, line 1: TypeError: document.getElementById(...) is null
+1669238711182	Marionette	INFO	Stopped listening on port 38067
+1669238718764	geckodriver	INFO	Listening on 127.0.0.1:60527
+1669238739836	geckodriver	INFO	Listening on 127.0.0.1:34503
+1669238752407	geckodriver	INFO	Listening on 127.0.0.1:54889
+1669239326215	geckodriver	INFO	Listening on 127.0.0.1:48719
+1669239336413	geckodriver	INFO	Listening on 127.0.0.1:34403
+1669239482558	geckodriver	INFO	Listening on 127.0.0.1:37415
+1669239493661	geckodriver	INFO	Listening on 127.0.0.1:56967
+1669239499134	geckodriver	INFO	Listening on 127.0.0.1:35547
+1669239915373	geckodriver	INFO	Listening on 127.0.0.1:33847
+1669239921857	geckodriver	INFO	Listening on 127.0.0.1:34219
+1669239921861	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "50771" "-no-remote" "-profile" "/tmp/rust_mozprofileahqYy8"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1669239923585	Marionette	INFO	Marionette enabled
+1669239923589	Marionette	INFO	Listening on port 40047
+WebDriver BiDi listening on ws://127.0.0.1:50771
+1669239923717	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileahqYy8/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50771/devtools/browser/d9098478-2fb1-4fb5-bd9c-ec3bb4dc7812
+JavaScript error: https://m-se.snabbare.com/sports/?langid=null&sToken=logout, line 678: SyntaxError: JSON.parse: unexpected character at line 1 column 2 of the JSON data
+JavaScript error: https://comeon.nowbetnow.com/js/comeon/stream.min.js, line 1: TypeError: document.getElementById(...) is null
+1669239976644	Marionette	INFO	Stopped listening on port 40047
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1669240192709	geckodriver	INFO	Listening on 127.0.0.1:51153
+1669240275723	geckodriver	INFO	Listening on 127.0.0.1:34607
+1669240275733	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--remote-debugging-port" "35497" "-no-remote" "-profile" "/tmp/rust_mozprofileLrJL6q"
+*** You are running in headless mode.
+1669240276752	Marionette	INFO	Marionette enabled
+1669240276755	Marionette	INFO	Listening on port 40779
+WebDriver BiDi listening on ws://127.0.0.1:35497
+1669240276913	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileLrJL6q/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:35497/devtools/browser/7c98555f-df9b-4b76-b0dd-46d0c436e574
+JavaScript error: https://www.bethard.com/sv/null?langid=722&stoken=logout line 469 > injectedScript, line 1: TypeError: window.hj is not a function
+JavaScript error: https://cdn.sbtech.com/rj/sb-betslip-lib/5.6.15/sbBetslipLib.js, line 1: TypeError: e.data[0] is undefined
+1669240305556	geckodriver	INFO	Listening on 127.0.0.1:39691
+1669240305561	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "44539" "-no-remote" "-profile" "/tmp/rust_mozprofile9Owxt3"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1669240307049	Marionette	INFO	Marionette enabled
+1669240307052	Marionette	INFO	Listening on port 43201
+WebDriver BiDi listening on ws://127.0.0.1:44539
+1669240307184	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile9Owxt3/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:44539/devtools/browser/91b446ad-b466-4f30-b0d0-6964ca7f6149
+JavaScript error: https://cdn.sbtech.com/rj/sb-betslip-lib/5.6.15/sbBetslipLib.js, line 1: TypeError: e.data[0] is undefined
+1669240341046	geckodriver	INFO	Listening on 127.0.0.1:53905
+1669240341064	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "53069" "-no-remote" "-profile" "/tmp/rust_mozprofilejOSMYm"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1669240342585	Marionette	INFO	Marionette enabled
+1669240342589	Marionette	INFO	Listening on port 35007
+WebDriver BiDi listening on ws://127.0.0.1:53069
+1669240342844	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilejOSMYm/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53069/devtools/browser/6464d66a-177b-4889-8dc7-2536c416f35b
+1669240383470	Marionette	INFO	Stopped listening on port 35007
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1669240386532	Marionette	INFO	Stopped listening on port 43201
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1669240486104	geckodriver	INFO	Listening on 127.0.0.1:37515
+1669240486109	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "55061" "-no-remote" "-profile" "/tmp/rust_mozprofile7gXvgM"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1669240487707	Marionette	INFO	Marionette enabled
+1669240487712	Marionette	INFO	Listening on port 37807
+WebDriver BiDi listening on ws://127.0.0.1:55061
+1669240487838	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile7gXvgM/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55061/devtools/browser/7de04fe8-051b-4177-bedb-2f96e0e6ac6d
+JavaScript error: https://cdn.sbtech.com/rj/sb-betslip-lib/5.6.15/sbBetslipLib.js, line 1: TypeError: e.data[0] is undefined
+1674678200176	geckodriver	INFO	Listening on 127.0.0.1:52567
+1674678200685	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "52065" "-no-remote" "-profile" "/tmp/rust_mozprofileQv92HJ"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1674678202053	Marionette	INFO	Marionette enabled
+1674678202058	Marionette	INFO	Listening on port 35793
+WebDriver BiDi listening on ws://127.0.0.1:52065
+1674678202235	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileQv92HJ/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52065/devtools/browser/51a76e05-210f-457b-9c5b-0898336ce075
+1674678206963	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://www.bethard.com/static/js/runtime-main.7a3551fc.js, line 1: ChunkLoadError: Loading chunk 179 failed.
+(error: https://www.bethard.com/static/js/179.9631111d.chunk.js)
+JavaScript error: https://www.bethard.com/static/js/runtime-main.7a3551fc.js, line 1: ChunkLoadError: Loading chunk 697 failed.
+(error: https://www.bethard.com/static/js/697.6602fdd8.chunk.js)
+JavaScript error: https://se-sports.bethard.com/se/sports/fotboll/italien-serie-a/, line 678: TypeError: window.originalJSONParse is undefined
+JavaScript error: https://cdn.sbtech.com/rj/sb-betslip-lib/5.6.15/sbBetslipLib.js, line 1: TypeError: e.data[0] is undefined
+JavaScript error: https://se-sports.bethard.com/se/sports/fotboll/tyskland-2-bundesliga/, line 678: TypeError: window.originalJSONParse is undefined
+JavaScript error: https://cdn.sbtech.com/rj/sb-betslip-lib/5.6.15/sbBetslipLib.js, line 1: TypeError: e.data[0] is undefined
+JavaScript error: https://cdn.sbtech.com/rj/sb-betslip-lib/5.6.15/sbBetslipLib.js, line 1: TypeError: e.data[0] is undefined
+1674678234268	Marionette	INFO	Stopped listening on port 35793
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1674678393757	geckodriver	INFO	Listening on 127.0.0.1:60315
+1674678393763	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "39291" "-no-remote" "-profile" "/tmp/rust_mozprofileFwaDPE"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1674678394621	Marionette	INFO	Marionette enabled
+1674678394624	Marionette	INFO	Listening on port 46847
+WebDriver BiDi listening on ws://127.0.0.1:39291
+1674678394712	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileFwaDPE/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:39291/devtools/browser/77549bc0-8be9-4d00-a59a-1c32e10ce8a7
+JavaScript error: https://www.bethard.com/sv/null?langid=722&stoken=logout line 447 > injectedScript, line 1: TypeError: window.hj is not a function
+JavaScript error: https://cdn.sbtech.com/rj/sb-betslip-lib/5.6.15/sbBetslipLib.js, line 1: TypeError: e.data[0] is undefined
+JavaScript error: https://cdn.sbtech.com/rj/sb-betslip-lib/5.6.15/sbBetslipLib.js, line 1: TypeError: e.data[0] is undefined
+JavaScript error: https://cdn.sbtech.com/rj/sb-betslip-lib/5.6.15/sbBetslipLib.js, line 1: TypeError: e.data[0] is undefined
+JavaScript error: https://cdn.sbtech.com/rj/sb-betslip-lib/5.6.15/sbBetslipLib.js, line 1: TypeError: e.data[0] is undefined
+1674678421992	Marionette	INFO	Stopped listening on port 46847
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1674678443583	geckodriver	INFO	Listening on 127.0.0.1:40825
+1674678443587	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "33079" "-no-remote" "-profile" "/tmp/rust_mozprofiletdJafQ"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1674678444443	Marionette	INFO	Marionette enabled
+1674678444446	Marionette	INFO	Listening on port 36337
+WebDriver BiDi listening on ws://127.0.0.1:33079
+1674678444531	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofiletdJafQ/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:33079/devtools/browser/cf5a2b17-cca6-412f-bcf1-1e33b023d6cd
+JavaScript error: https://comeon.nowbetnow.com/js/comeon/stream.min.js, line 1: TypeError: d is undefined
+1674678712092	geckodriver	INFO	Listening on 127.0.0.1:47001
+1674678712097	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "41689" "-no-remote" "-profile" "/tmp/rust_mozprofilew0yBLl"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1674678712944	Marionette	INFO	Marionette enabled
+1674678712947	Marionette	INFO	Listening on port 43319
+WebDriver BiDi listening on ws://127.0.0.1:41689
+1674678713044	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilew0yBLl/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:41689/devtools/browser/42d2b9a9-9087-4ca2-a7c4-410e05c50af7
+JavaScript error: https://m-se.snabbare.com/sports/?langid=null&sToken=logout, line 678: SyntaxError: JSON.parse: unexpected character at line 1 column 2 of the JSON data
+1674678754048	Marionette	INFO	Stopped listening on port 36337
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1674678755308	Marionette	INFO	Stopped listening on port 43319
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.

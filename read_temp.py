@@ -1,4 +1,4 @@
-from helpers import *
+from bookmakers.helpers import *
 import json
 import pickle
 

@@ -1,4 +1,5 @@
 import time
+import os
 from pathlib import Path
 import selenium.common.exceptions
 from selenium import webdriver
@@ -6,27 +7,29 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.common.by import By
 from selenium.webdriver.firefox.options import Options
-from helpers import *
-from selenium.webdriver.firefox.firefox_binary import FirefoxBinary
+from bookmakers.helpers import *
 from selenium.webdriver.common.keys import Keys
 
 
 def snabbare(sport='football'):
-    games = []
-    odds = []
-
     web = "https://www.snabbare.com/sv/sportsbook"
+
     # firefox_path = "/usr/local/bin/"
     path = Path(__file__).parent.parent / sport
+
     firefox_path = r"C:\Users\ogy572\AppData\Local\Mozilla Firefox\firefox.exe"
 
     games = []
     odds = []
     name = "snabbare" + "_" + sport + ".pickle"
     filename = path / name
+
     # Open browser
     options = Options()
-    options.binary_location = FirefoxBinary(firefox_path)
+
+    if os.path.exists(firefox_path):
+        options.binary_location = FirefoxBinary(firefox_path)
+
     # options.add_argument("--headless")
     driver = webdriver.Firefox(options=options)
     driver.get(web)

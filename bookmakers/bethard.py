@@ -1,4 +1,5 @@
 from pathlib import Path
+import os
 import selenium.common.exceptions
 from selenium import webdriver
 from selenium.webdriver.support.ui import WebDriverWait
@@ -6,14 +7,13 @@ from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.common.by import By
 from selenium.webdriver.firefox.options import Options
 from selenium.webdriver.firefox.firefox_binary import FirefoxBinary
-from helpers import *
+from bookmakers.helpers import *
 
 def bethard(sport='football', leagues=[]):
     web = "https://www.bethard.com/sv/sports"
 
     # firefox_path = "/usr/local/bin/"
     path = Path(__file__).parent.parent / sport
-
 
     firefox_path = r"C:\Users\ogy572\AppData\Local\Mozilla Firefox\firefox.exe"
 
@@ -23,8 +23,11 @@ def bethard(sport='football', leagues=[]):
     filename = path / name
     # Open browser
     options = Options()
-    options.binary_location = FirefoxBinary(firefox_path)
-    options.add_argument("--headless")
+
+    if os.path.exists(firefox_path):
+        options.binary_location = FirefoxBinary(firefox_path)
+
+    # options.add_argument("--headless")
     driver = webdriver.Firefox(options=options)
     driver.get(web)
 
